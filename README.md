@@ -8,7 +8,7 @@ Basic kowledge of programming or how computer works at the level of first year C
 I try to list them by reading order
 
 ## Introduction / General Overview
-- Chip Huyen. *AI Engineering*. O'Reilly. 2024.
+- Chip Huyen, *AI Engineering*. O'Reilly. 2024.
 - Some chapters from Jay Alammar & Maarten Grootendorst, *Hands-on LLM*. O'Reilly. 2024.
     - Some sections from Ch 1. "An Introduction to Large Language Models" & Ch 2."Tokens and Embeddings"
     - Ch 3. "Looking Inside Large Languag Models" ~ "[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)". 2018.
