@@ -26,6 +26,7 @@ I try to list them by reading order
 - 자손킴(jasonkim), "[Claude Code의 거의 모든 것은 Tool Use입니다. MCP도 subagent도 Skills 역시요](https://hackers.pub/@jasonkim/2025/agent-tool-use)" 2026.
 - 자손킴(jasonkim),"[Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use)" 2026.
 - 자손킴(jasonkim),"[MCP도 Tool Use를 사용합니다](https://hackers.pub/@jasonkim/2025/mcp-is-tool-use)" 2026.
+- Simon Willison, "[The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/)" 2025.
 
 ## Course Materials
 
