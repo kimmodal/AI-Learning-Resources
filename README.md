@@ -11,7 +11,7 @@ I try to list them by reading order
 - Chip Huyen, *AI Engineering*. O'Reilly. 2024.
 - from Jay Alammar & Maarten Grootendorst, *Hands-on LLM*. O'Reilly. 2024.
     - Ch 1. "An Introduction to Large Language Models"
-    - Ch 2."Tokens and Embeddings"
+    - Ch 2. "Tokens and Embeddings"
     - Ch 3. "Looking Inside Large Languag Models" ~ "[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)". 2018.
     - Ch 9. "Multimodal Large Language Models"
 - Maarten Grootendorst, "[A Visual Giude to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)". 2025.
