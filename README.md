@@ -15,7 +15,7 @@ I try to list them by reading order
     - Ch 3. "Looking Inside Large Languag Models" ~ "[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)". 2018.
     - Ch 9. "Multimodal Large Language Models"
 - Maarten Grootendorst. "[A Visual Giude to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)". 2025.
-- Yaan Dubois. "[Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf)" slides from Stanford's [CS294/194-196: Agentic AI (Fall 2025)](https://rdi.berkeley.edu/agentic-ai/f25) course
+- Yaan Dubois. "[Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf)". Stanford [CS294/194-196: Agentic AI](https://rdi.berkeley.edu/agentic-ai/f25). Fall 2025.
 
 ### Agents
 - Ben Recht. "[Secrets of Intelligence Service Services](https://www.argmin.net/p/secrets-of-intelligence-services)". arg min. 2026.
@@ -31,7 +31,7 @@ I try to list them by reading order
 - Nader Dabit. "[You Could've Invented OpenClaw](https://gist.github.com/dabit3/bc60d3bea0b02927995cd9bf53c3db32)". 2026.
 
 ### Data
-- Percy Liang. "[Lecture 13: Pretaining Data](https://cs336.stanford.edu/spring2025-lectures/?trace=var/traces/lecture_13.json)". CS336: Language Modeling from Scratch. Spring 2025.
+- Percy Liang. "[Lecture 13: Pretaining Data](https://cs336.stanford.edu/spring2025-lectures/?trace=var/traces/lecture_13.json)". Stanford CS336: Language Modeling from Scratch. Spring 2025.
 
 ## Etc / Slides / Articles
 - Kyongchun Cho. "[You want to train language models yourself from scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view)". 2024. 
