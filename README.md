@@ -2,7 +2,7 @@
 Good AI learning resources I have benefited from 
 
 ## Prerequisite
-Basic kowledge of programming or how computer works at the level of first year CS intro course
+Basic kowledge of programming or how computers work at the level of first year CS intro course
 
 ## How it works
 I try to list them by reading order
@@ -30,8 +30,6 @@ I try to list them by reading order
 - Nader Dabit. "[You Could've Invented OpenClaw](https://gist.github.com/dabit3/bc60d3bea0b02927995cd9bf53c3db32)". 2026.
 
 ### Training / Data
+- Kyongchun Cho. "[You want to train language models yourself from scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view)". Conference on Health, Inference, and Learning (CHIL). 2024.
 - Yaan Dubois. "[Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf)". Stanford CS294/194-196: Agentic AI. Fall 2025.
 - Percy Liang. "[Lecture 13: Pretaining Data](https://cs336.stanford.edu/spring2025-lectures/?trace=var/traces/lecture_13.json)". Stanford CS336: Language Modeling from Scratch. Spring 2025.
-
-## Etc / Slides / Articles
-- Kyongchun Cho. "[You want to train language models yourself from scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view)". 2024. 
