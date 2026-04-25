@@ -19,7 +19,7 @@ I tried to list them by reading order
 ### Agents
 - Ben Recht. "[Secrets of Intelligence Service Services](https://www.argmin.net/p/secrets-of-intelligence-services)". arg min. 2026.
 - Thomas Ptack. "[You Should Write an Agent](https://fly.io/blog/everyone-write-an-agent/)". fly blog. 2026.
-- *HuggingFace*. [AI Agent Course](https://huggingface.co/learn/agents-course/unit0/introduction), Unit 1.
+- *HuggingFace*. [AI Agent Course](https://huggingface.co/learn/agents-course/unit0/introduction) Unit 1.
 - *OpenAI Developer Docs*. "[Function Calling](https://developers.openai.com/api/docs/guides/function-calling)". 
 - *OpenAI Engineering Blog*. "[Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/)". 2026.
 - 자손킴(jasonkim). "[Claude API의 Request Body 분석](https://hackers.pub/@jasonkim/2025/claude-api-request-body)". 2026.
