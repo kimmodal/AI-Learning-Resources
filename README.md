@@ -22,9 +22,9 @@ Good AI learning resources I have benefited from.
 - OpenAI Developer Docs. "[Function Calling](https://developers.openai.com/api/docs/guides/function-calling)". 
 - OpenAI Engineering Blog. "[Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/)". 2026.
 - 자손킴(jasonkim). "[Claude API의 Request Body 분석](https://hackers.pub/@jasonkim/2025/claude-api-request-body)". 2026.
-    - 자손킴(jasonkim). "[Claude Code의 거의 모든 것은 Tool Use입니다. MCP도 subagent도 skills 역시요](https://hackers.pub/@jasonkim/2025/agent-tool-use)". 2026.
-    - 자손킴(jasonkim). "[Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use)". 2026.
-    - 자손킴(jasonkim). "[MCP도 Tool Use를 사용합니다](https://hackers.pub/@jasonkim/2025/mcp-is-tool-use)". 2026.
+    - "[Claude Code의 거의 모든 것은 Tool Use입니다. MCP도 subagent도 skills 역시요](https://hackers.pub/@jasonkim/2025/agent-tool-use)". 2026.
+    - "[Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use)". 2026.
+    - "[MCP도 Tool Use를 사용합니다](https://hackers.pub/@jasonkim/2025/mcp-is-tool-use)". 2026.
 - Simon Willison. "[The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/)". 2025.
 - Nader Dabit. "[You Could've Invented OpenClaw](https://gist.github.com/dabit3/bc60d3bea0b02927995cd9bf53c3db32)". 2026.
 
@@ -34,10 +34,10 @@ Good AI learning resources I have benefited from.
 - Nathan Lambert. "[Building OLMO in the Era of Agents](https://https://natolambert.com/slides)". LTI Colloquium @ Carnegie Melone University. 2026.
 - from *Stanford CS336: Language Model from Scratch*. Spring 2026.
   - Percy Liang. [An outline slide](https://github.com/kimmodal/AI-Learning-Resources/blob/9dd3fb680d3a23d76bb0f033450dddc23f7b5049/CS336%20Outline.md) from "Marin: An Open Lab for Frontier AI". Pytorch Conference 2025.
-  - Percy Liang. "[Lecture 1: Overview](https://cs336.stanford.edu/lectures/?trace=lecture_01)"
-  - Percy Liang. "[Lecture 12: Evaluation](https://cs336.stanford.edu/spring2025-lectures/?trace=var/traces/lecture_12.json)". Spring 2025.
+  - "[Lecture 1: Overview](https://cs336.stanford.edu/lectures/?trace=lecture_01)"
+  - "[Lecture 12: Evaluation](https://cs336.stanford.edu/spring2025-lectures/?trace=var/traces/lecture_12.json)". Spring 2025.
      // will update to this year's version when it comes out
-  - Percy Liang. "[Lecture 13: Pretaining Data](https://cs336.stanford.edu/spring2025-lectures/?trace=var/traces/lecture_13.json)". Spring 2025.
+  - "[Lecture 13: Pretaining Data](https://cs336.stanford.edu/spring2025-lectures/?trace=var/traces/lecture_13.json)". Spring 2025.
      // will update to this year's version when it comes out
 
 
