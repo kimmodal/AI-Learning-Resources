@@ -32,12 +32,8 @@ Good AI learning resources I have benefited from.
 - Kyongchun Cho. "[You want to train language models yourself from scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view)". 7th Annual Conference on Health, Inference, and Learning (CHIL). 2024.
 - Yaan Dubois. "[Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf)". *Stanford CS294/194-196: Agentic AI*. Fall 2025.
 - Nathan Lambert. "[Building OLMO in the Era of Agents](https://https://natolambert.com/slides)". LTI Colloquium @ Carnegie Melone University. 2026.
-- from *Stanford CS336: Language Model from Scratch*. Spring 2026.
+- [*Stanford CS336 Language Model from Scratch*](https://cs336.stanford.edu). Spring 2026.
   - Percy Liang. [An outline slide](https://github.com/kimmodal/AI-Learning-Resources/blob/9dd3fb680d3a23d76bb0f033450dddc23f7b5049/CS336%20Outline.md) from "Marin: An Open Lab for Frontier AI". Pytorch Conference 2025.
-  - "[Lecture 1: Overview](https://cs336.stanford.edu/lectures/?trace=lecture_01)"
-  - "[Lecture 12: Evaluation](https://cs336.stanford.edu/spring2025-lectures/?trace=var/traces/lecture_12.json)". Spring 2025.
-     // will update to this year's version when it comes out
-  - "[Lecture 13: Pretaining Data](https://cs336.stanford.edu/spring2025-lectures/?trace=var/traces/lecture_13.json)". Spring 2025.
-     // will update to this year's version when it comes out
+- *[UC Berkeley EE290/174 Scalable AI: Bridging Theory, Understanding, and Practice*](https://scalable-ai.eecs.berkeley.edu). Spring 2026.
 
 
