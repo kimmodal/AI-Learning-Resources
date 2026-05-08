@@ -7,13 +7,14 @@ Good AI learning resources I have benefited from.
 ## General Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
 
-## LLMs
+## Fundamentals of LLMs
 - from Jay Alammar & Maarten Grootendorst. *Hands-on LLM*. O'Reilly. 2024.
     - "Ch 1. An Introduction to Large Language Models"
     - "Ch 2. Tokens and Embeddings"
     - "Ch 3. Looking Inside Large Languag Models" ~ "[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)". 2018.
     - "Ch 9. Multimodal Large Language Models"
 - Maarten Grootendorst. "[A Visual Giude to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)". 2025.
+- ngrok Blog. "[Quantization from the ground up](https://ngrok.com/blog/quantization)". 2026.
 
 ## Agents
 - Ben Recht. "[Secrets of Intelligence Service Services](https://www.argmin.net/p/secrets-of-intelligence-services)". arg min. 2026.
@@ -22,9 +23,9 @@ Good AI learning resources I have benefited from.
 - OpenAI Developer Docs. "[Function Calling](https://developers.openai.com/api/docs/guides/function-calling)". 
 - OpenAI Engineering Blog. "[Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/)". 2026.
 - 자손킴(jasonkim). "[Claude API의 Request Body 분석](https://hackers.pub/@jasonkim/2025/claude-api-request-body)". 2026.
-    - "[Claude Code의 거의 모든 것은 Tool Use입니다. MCP도 subagent도 skills 역시요](https://hackers.pub/@jasonkim/2025/agent-tool-use)". 2026.
-    - "[Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use)". 2026.
-    - "[MCP도 Tool Use를 사용합니다](https://hackers.pub/@jasonkim/2025/mcp-is-tool-use)". 2026.
+    - "[Claude Code의 거의 모든 것은 Tool Use입니다. MCP도 subagent도 skills 역시요](https://hackers.pub/@jasonkim/2025/agent-tool-use)". 
+    - "[Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use)". 
+    - "[MCP도 Tool Use를 사용합니다](https://hackers.pub/@jasonkim/2025/mcp-is-tool-use)". 
 - Simon Willison. "[The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/)". 2025.
 - Nader Dabit. "[You Could've Invented OpenClaw](https://gist.github.com/dabit3/bc60d3bea0b02927995cd9bf53c3db32)". 2026.
 
