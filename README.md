@@ -27,6 +27,7 @@ Good AI learning resources I have benefited from.
     - "[Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use)". 
     - "[MCP도 Tool Use를 사용합니다](https://hackers.pub/@jasonkim/2025/mcp-is-tool-use)". 
 - Nader Dabit. "[You Could've Invented OpenClaw](https://gist.github.com/dabit3/bc60d3bea0b02927995cd9bf53c3db32)". 2026.
+- Cloudflare Blog. "[Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/)". 2026.
 
 ### Securities
 - Simon Willison. "[The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/)". 2025.
