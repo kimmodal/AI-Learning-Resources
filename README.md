@@ -32,7 +32,7 @@ Good AI learning resources I have benefited from.
 - Simon Willison. "[The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/)". 2025.
 - Luis Cardoso. "[A field guide to sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai)". 2026.
 
-## Training & Data
+## Training
 - Kyongchun Cho. "[You want to train language models yourself from scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view)". 7th Annual Conference on Health, Inference, and Learning (CHIL). 2024.
 - Yaan Dubois. "[Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf)". *Stanford CS294/194-196 Agentic AI*. Fall 2025.
 - Nathan Lambert. "[Building OLMO in the Era of Agents](https://https://natolambert.com/slides)". LTI Colloquium @ CMU. 2026.
