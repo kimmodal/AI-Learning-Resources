@@ -30,7 +30,7 @@ Good AI learning resources I have benefited from.
 
 ### Security
 - Simon Willison. "[The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/)". 2025.
-- ASD’s ACSC, CISA and NSA, Cyber Center, NCSC NZ, & NCSC UK. "[Careful Adoption of Agentic AI Services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)". 2026.
+- ASD’s ACSC, CISA, NSA, Cyber Center, NCSC NZ, & NCSC UK. "[Careful Adoption of Agentic AI Services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)". 2026.
 - Luis Cardoso. "[A field guide to sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai)". 2026.
 
 ## Training
