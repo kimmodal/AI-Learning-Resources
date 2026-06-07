@@ -7,13 +7,13 @@ Good AI learning resources I have benefited from.
 ## General Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
 
-## Fundamentals of LLMs
-- Sebastian Raschka. "[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)".
+## Fundamentals of LLMs.
 - from Jay Alammar & Maarten Grootendorst. *Hands-on LLM*. O'Reilly. 
     - "Ch 3. Inside Large Language Models" 
     - "Ch 9. Multimodal Large Language Models"
 - Maarten Grootendorst. "[A Visual Giude to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)". 2025.
 - ngrok Blog. "[Quantization from the ground up](https://ngrok.com/blog/quantization)". 2026.
+- Sebastian Raschka. "[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)"
 
 ## Agents
 - Ben Recht. "[Secrets of Intelligence Service Services](https://www.argmin.net/p/secrets-of-intelligence-services)". arg min. 2026.
