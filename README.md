@@ -7,10 +7,8 @@ Good AI learning resources I have benefited from.
 ## General Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
 
-## Fundamentals of LLMs.
-- from Jay Alammar & Maarten Grootendorst. *Hands-on LLM*. O'Reilly. 
-    - "Ch 3. Inside Large Language Models" 
-    - "Ch 9. Multimodal Large Language Models"
+## Fundamentals of LLMs
+- Jay Alammar & Maarten Grootendorst. "Ch 3. Inside Large Language Models" and "Ch 9. Multimodal Large Language Models" from *Hands-on LLM*. O'Reilly. 2024.
 - Maarten Grootendorst. "[A Visual Giude to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)". 2025.
 - ngrok Blog. "[Quantization from the ground up](https://ngrok.com/blog/quantization)". 2026.
 - Sebastian Raschka. "[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)"
@@ -31,6 +29,7 @@ Good AI learning resources I have benefited from.
 ### Security
 - Simon Willison. "[The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/)". 2025.
 - ASD’s ACSC, CISA, NSA, Cyber Center, NCSC NZ, & NCSC UK. "[Careful Adoption of Agentic AI Services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)". 2026.
+- Nvidia Technical Blog. "[Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk](https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/)". 2026.
 - Luis Cardoso. "[A field guide to sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai)". 2026.
 
 ## Training
