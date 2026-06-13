@@ -39,5 +39,7 @@ Good AI learning resources I have benefited from.
 - Nathan Lambert. "[Building OLMO in the Era of Agents](https://https://natolambert.com/slides)". LTI Colloquium @ CMU. 2026.
 - Stanford *[CS336 Language Model from Scratch](https://cs336.stanford.edu)*. Spring 2026.
 
-
+## AI "Safety"
+- Ben Recht. "[The Banal Evil of AI Safety](https://www.argmin.net/p/the-banal-evil-of-ai-safety)". arg min. Aug 2025.
+- Yoshua Bengio et al. *[International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)*. Feb 2026.
 
