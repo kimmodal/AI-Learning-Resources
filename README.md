@@ -8,7 +8,7 @@ Good AI learning resources I have benefited from.
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
 
 ## Fundamentals of LLMs
-- Jay Alammar & Maarten Grootendorst. Ch 3. Inside Large Language Models (~ [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)). *Hands-on LLM*. O'Reilly. 2024. 
+- Jay Alammar & Maarten Grootendorst. Ch 3. Inside Large Language Models ([The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)). *Hands-on LLM*. O'Reilly. 2024. 
   - Ch 9. Multimodal Large Language Models. 
 - Maarten Grootendorst. [A Visual Giude to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms). Feb 2025.
 - ngrok Blog. [Quantization from the ground up](https://ngrok.com/blog/quantization). March 2026.
@@ -22,7 +22,7 @@ Good AI learning resources I have benefited from.
 - OpenAI Developer Docs. [Function Calling](https://developers.openai.com/api/docs/guides/function-calling). 
 - OpenAI Engineering Blog. [Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/). Jan 2026.
 - 자손킴(jasonkim). [Claude API의 Request Body 분석](https://hackers.pub/@jasonkim/2025/claude-api-request-body). Dec 2025.
-    - [Claude Code의 거의 모든 것은 Tool Use입니다. MCP도 subagent도 skills 역시요](https://hackers.pub/@jasonkim/2025/agent-tool-use), [Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use), & [MCP도 Tool Use를 사용합니다](https://hackers.pub/@jasonkim/2025/mcp-is-tool-use). Dec 2025.
+    - [Claude Code의 거의 모든 것은 Tool Use입니다. MCP도 subagent도 skills 역시요](https://hackers.pub/@jasonkim/2025/agent-tool-use), [Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use), & [MCP도 Tool Use를 사용합니다](https://hackers.pub/@jasonkim/2025/mcp-is-tool-use). 
 - Nader Dabit. [You Could've Invented OpenClaw](https://gist.github.com/dabit3/bc60d3bea0b02927995cd9bf53c3db32). Feb 2026.
 - Cloudflare Blog. [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/). May 2026.
 
