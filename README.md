@@ -12,6 +12,7 @@ Good AI learning resources I have benefited from.
 - Maarten Grootendorst. [A Visual Giude to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms). Feb 2025.
 - ngrok Blog. [Quantization from the ground up](https://ngrok.com/blog/quantization). March 2026.
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
+- 자손킴(jasonkim). [Claude Code가 모델이 하지도 않은 말을 했다고 하는 이유](https://hackers.pub/@jasonkim/2025/claude-code-prefill). Dec 2025.
 
 ## Agents
 - Ben Recht. [Secrets of Intelligence Service Services](https://www.argmin.net/p/secrets-of-intelligence-services). Feb 2026.
