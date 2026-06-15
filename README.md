@@ -14,6 +14,7 @@ Good AI learning resources I have benefited from.
 - ngrok Blog. [Quantization from the ground up](https://ngrok.com/blog/quantization). March 2026.
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
 - 자손킴(jasonkim). [Claude Code가 모델이 하지도 않은 말을 했다고 하는 이유](https://hackers.pub/@jasonkim/2025/claude-code-prefill). Dec 2025.
+- AI in Plain English. [Beyond the Curve: A Holistic Guide to Activation Functions (From Sigmoid to SwiGLU)](https://ai.plainenglish.io/beyond-the-curve-a-holistic-guide-to-activation-functions-from-sigmoid-to-swiglu-3e96faaa7a84). Jan 2026.
 
 ## Agents
 - Ben Recht. [Secrets of Intelligence Service Services](https://www.argmin.net/p/secrets-of-intelligence-services). Feb 2026.
