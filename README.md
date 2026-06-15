@@ -9,9 +9,9 @@ Good AI learning resources I have benefited from.
 
 ## Fundamentals of LLMs
 - Jay Alammar & Maarten Grootendorst. Ch 3. Inside Large Language Models ([The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)). *Hands-on LLM*. O'Reilly. 2024. 
-  - Ch 9. Multimodal Large Language Models. 
+- 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). April 2026.
 - Maarten Grootendorst. [A Visual Giude to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms). Feb 2025.
-- ngrok Blog. [Quantization from the ground up](https://ngrok.com/blog/quantization). March 2026.
+  - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization). July 2024.
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
 - 자손킴(jasonkim). [Claude Code가 모델이 하지도 않은 말을 했다고 하는 이유](https://hackers.pub/@jasonkim/2025/claude-code-prefill). Dec 2025.
 - AI in Plain English. [Beyond the Curve: A Holistic Guide to Activation Functions (From Sigmoid to SwiGLU)](https://ai.plainenglish.io/beyond-the-curve-a-holistic-guide-to-activation-functions-from-sigmoid-to-swiglu-3e96faaa7a84). Jan 2026.
