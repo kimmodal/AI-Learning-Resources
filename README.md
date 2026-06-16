@@ -1,7 +1,7 @@
-# AI Learning Resources
-Good AI learning resources I have benefited from. 
+# Learning AI Resources
+Good AI learning resources I have found useful. 
 
-- I tried to list this by reading order
+- I tried to list them in a suggested reading order.
 - Prerequisite: Basic knowledge of programming or how computers work at the level of first year CS intro course
 
 ## General Overview
@@ -9,7 +9,7 @@ Good AI learning resources I have benefited from.
 
 ## Fundamentals of LLMs
 ### Transformer
-- Jay Alammar & Maarten Grootendorst. Ch 3. Inside Large Language Models (~[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/). 2018). *Hands-on LLM*. O'Reilly. 2024. 
+- Jay Alammar & Maarten Grootendorst. Ch 3. Inside Large Language Models. *Hands-on LLM*. O'Reilly. 2024. 
 - 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). Apr 2026.
 - Lucas Beyer. [Transformer Tutorial](https://lucasb.eyer.be/transformer). Sep 2022
 
@@ -20,7 +20,7 @@ Good AI learning resources I have benefited from.
 - AI in Plain English. [Beyond the Curve: A Holistic Guide to Activation Functions (From Sigmoid to SwiGLU)](https://ai.plainenglish.io/beyond-the-curve-a-holistic-guide-to-activation-functions-from-sigmoid-to-swiglu-3e96faaa7a84). Jan 2026.
 - 자손킴(jasonkim). [Claude Code가 모델이 하지도 않은 말을 했다고 하는 이유](https://hackers.pub/@jasonkim/2025/claude-code-prefill). Dec 2025.
 
-### More
+### Even More Stuffs
 - Afshine Amidi & Shervine Amidi. *[CME 295: Transformers & Large Language Models](https://cme295.stanford.edu/syllabus/)*. Stanford. Fall 2025.
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
 
