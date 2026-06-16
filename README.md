@@ -9,7 +9,7 @@ Good AI learning resources I have benefited from.
 
 ## Fundamentals of LLMs
 ### Transformer
-- Jay Alammar & Maarten Grootendorst. Ch 3. Inside Large Language Models ( ~ [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)). *Hands-on LLM*. O'Reilly. 2024. 
+- Jay Alammar & Maarten Grootendorst. Ch 3. Inside Large Language Models (~[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)). *Hands-on LLM*. O'Reilly. 2024. 
 - 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). Apr 2026.
 - Lucas Beyer. [Transformer Tutorial](https://lucasb.eyer.be/transformer). Sep 2022
 
