@@ -26,7 +26,7 @@ Good AI learning resources I have benefited from.
 - OpenAI Developer Docs. [Function Calling](https://developers.openai.com/api/docs/guides/function-calling). 
 - OpenAI Engineering Blog. [Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/). Jan 2026.
 - 자손킴(jasonkim). [Claude API의 Request Body 분석](https://hackers.pub/@jasonkim/2025/claude-api-request-body). Dec 2025.
-    - [Claude Code의 거의 모든 것은 Tool Use입니다. MCP도 subagent도 skills 역시요](https://hackers.pub/@jasonkim/2025/agent-tool-use), [Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use), & [MCP도 Tool Use를 사용합니다](https://hackers.pub/@jasonkim/2025/mcp-is-tool-use). 
+    - [Claude Code의 거의 모든 것은 Tool Use입니다. MCP도 subagent도 skills 역시요](https://hackers.pub/@jasonkim/2025/agent-tool-use), [Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use), & [MCP도 Tool Use를 사용합니다](https://hackers.pub/@jasonkim/2025/mcp-is-tool-use). Dec 2025.
 - Cloudflare Blog. [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/). May 2026.
 - Nader Dabit. [You Could've Invented OpenClaw](https://gist.github.com/dabit3/bc60d3bea0b02927995cd9bf53c3db32). Feb 2026.
 
