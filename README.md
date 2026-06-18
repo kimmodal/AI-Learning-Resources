@@ -54,5 +54,6 @@ Good AI learning resources I have found useful.
 
 ## AI "Safety"
 - Ben Recht. [The Banal Evil of AI Safety](https://www.argmin.net/p/the-banal-evil-of-ai-safety). Aug 2025.
+- MIT AI Risk Initiative. [AI Risk Repository](DomainTaxonomyofAIRisks.md). Mar 2026.
 - Yoshua Bengio et al. *[International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)*. Feb 2026.
 
