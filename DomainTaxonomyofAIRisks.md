@@ -1,6 +1,6 @@
 from [AI Risk Repository (https://airisk.mit.edu/risks)](https://airisk.mit.edu/risks). 2026.
 
-### 1 Discrimination & Toxicity
+### 1. Discrimination & Toxicity
 1.1 Unfair discrimination and misrepresentation  
 1.2 Exposure to toxic content  
 1.3 Unequal performance across groups  
