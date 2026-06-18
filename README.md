@@ -37,7 +37,7 @@ Good AI learning resources I have found useful.
 - Nader Dabit. [You Could've Invented OpenClaw](https://gist.github.com/dabit3/bc60d3bea0b02927995cd9bf53c3db32). Feb 2026.
 
 ### Agentic Engineering
-- Mario Zechner. [Promots are code, .json/.md files are state](https://mariozechner.at/posts/2025-06-02-prompts-are-code/). Jun 2025.
+- Mario Zechner. [Prompts are code, .json/.md files are state](https://mariozechner.at/posts/2025-06-02-prompts-are-code/). Jun 2025.
 
 ### Security
 - Simon Willison. [The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/). Jun 2025.
