@@ -1,3 +1,4 @@
+# Taxonomy of AI Risks
 from MIT AI Risk Initiative. [AI Risk Repository](https://airisk.mit.edu/risks). March 2026.
 
 ### 1. Discrimination & Toxicity
