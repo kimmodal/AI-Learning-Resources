@@ -16,7 +16,7 @@ Good AI learning resources I have found useful.
 ### More Architecture Stuffs
 - Jay Alammar & Maarten Grootendorst. Ch 9. Multimodal Large Language Models. *Hands-on LLM*. O'Reilly. 2024. 
 - Maarten Grootendorst. [A Visual Giude to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms). Feb 2025.
-  - [A Visual Gyide to Mixture of Experts](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts). Oct 2024.
+  - [A Visual Guide to Mixture of Experts](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts). Oct 2024.
   - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization). Jul 2024.
     - ngrok blog. [Quantization from the ground up](https://ngrok.com/blog/quantization). Mar 2026.
 - AI in Plain English. [Beyond the Curve: A Holistic Guide to Activation Functions (From Sigmoid to SwiGLU)](https://ai.plainenglish.io/beyond-the-curve-a-holistic-guide-to-activation-functions-from-sigmoid-to-swiglu-3e96faaa7a84). Jan 2026.
