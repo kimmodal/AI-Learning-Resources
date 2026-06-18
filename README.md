@@ -55,6 +55,6 @@ Good AI learning resources I have found useful.
 ## AI "Safety"
 - Ben Recht. [The Banal Evil of AI Safety](https://www.argmin.net/p/the-banal-evil-of-ai-safety). Aug 2025.
 - [Taxonomy of AI Risks](DomainTaxonomyofAIRisks.md) from MIT AI Risk Initiative. [AI Risk Repository](https://airisk.mit.edu/risks). Mar 2026.
-- ["Misalignment" Categories](MisalignmentCategories.md) from OpenAI safety blog. [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). May 2026.
+- [Types of "Misalignment"](misalignment.md) from OpenAI safety blog. [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). May 2026.
 - Yoshua Bengio et al. *[International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)*. Feb 2026.
 
