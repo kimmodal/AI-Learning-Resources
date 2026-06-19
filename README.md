@@ -9,12 +9,12 @@ Good AI learning resources I have found useful.
 
 ## Fundamentals of LLMs
 ### Transformer
-- Jay Alammar & Maarten Grootendorst. Ch 3. Inside Large Language Models. *Hands-on LLM*. O'Reilly. 2024. 
+- Jay Alammar & Maarten Grootendorst. Ch 3. Inside Large Language Models. *Hands-on Large Language Models*. O'Reilly. 2024. 
 - 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). Apr 2026.
 - Lucas Beyer. [Transformer Tutorial](https://lucasb.eyer.be/transformer). Sep 2022
 
 ### More Architecture Stuffs
-- Jay Alammar & Maarten Grootendorst. Ch 9. Multimodal Large Language Models. *Hands-on LLM*. O'Reilly. 2024. 
+- Jay Alammar & Maarten Grootendorst. Ch 9. Multimodal Large Language Models. *Hands-on Large Language Models*. O'Reilly. 2024. 
 - Maarten Grootendorst. [A Visual Giude to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms). Feb 2025.
   - [A Visual Guide to Mixture of Experts](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts). Oct 2024.
   - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization). Jul 2024.
