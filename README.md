@@ -29,6 +29,7 @@ Good AI learning resources I have found useful.
 ## Agents
 - Ben Recht. [Secrets of Intelligence Service Services](https://www.argmin.net/p/secrets-of-intelligence-services). Feb 2026.
 - Thomas Ptack. [You Should Write an Agent](https://fly.io/blog/everyone-write-an-agent/). Nov 2025.
+- Huggingface. [Agents Course](https://huggingface.co/learn/agents-course/unit1/introduction) Unit 1. 2025.
 - OpenAI Developer Docs. [Function Calling](https://developers.openai.com/api/docs/guides/function-calling). 
 - OpenAI engineering blog. [Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/). Jan 2026.
 - 자손킴(jasonkim). [Claude API의 Request Body 분석](https://hackers.pub/@jasonkim/2025/claude-api-request-body). Dec 2025.
