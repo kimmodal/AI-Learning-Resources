@@ -31,7 +31,7 @@ Good AI learning resources I have found useful.
 - Thomas Ptack. [You Should Write an Agent](https://fly.io/blog/everyone-write-an-agent/). Nov 2025.
 - Huggingface. *[Agents Course](https://huggingface.co/learn/agents-course/unit1/introduction)* Unit 1. 2025.
 - OpenAI Developer Docs. [Function Calling](https://developers.openai.com/api/docs/guides/function-calling). 
-- OpenAI engineering blog. [Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/). Jan 2026.
+- OpenAI Engineering Blog. [Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/). Jan 2026.
 - 자손킴(jasonkim). [Claude API의 Request Body 분석](https://hackers.pub/@jasonkim/2025/claude-api-request-body). Dec 2025.
     - [Claude Code의 거의 모든 것은 Tool Use입니다. MCP도 subagent도 skills 역시요](https://hackers.pub/@jasonkim/2025/agent-tool-use), [Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use), & [MCP도 Tool Use를 사용합니다](https://hackers.pub/@jasonkim/2025/mcp-is-tool-use). Dec 2025.
 - Cloudflare Blog. [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/). May 2026.
@@ -55,7 +55,7 @@ Good AI learning resources I have found useful.
 
 ## AI "Safety"
 - Ben Recht. [The Banal Evil of AI Safety](https://www.argmin.net/p/the-banal-evil-of-ai-safety). Aug 2025.
-- [Taxonomy of AI Risks](DomainTaxonomyofAIRisks.md) from MIT AI Risk Initiative. [AI Risk Repository](https://airisk.mit.edu/risks). Mar 2026.
-- [Types of "Misalignment"](misalignment.md) from OpenAI safety blog. [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). May 2026.
+- [Taxonomy of AI Risks](DomainTaxonomyofAIRisks.md) from MIT AI Risk Initiative, [AI Risk Repository](https://airisk.mit.edu/risks). Mar 2026.
+- [Types of "Misalignment"](misalignment.md) from OpenAI Safety Blog, [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). May 2026.
 - Yoshua Bengio et al. *[International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)*. Feb 2026.
 
