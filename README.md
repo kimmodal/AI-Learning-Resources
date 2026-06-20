@@ -18,7 +18,7 @@ Good AI learning resources I have found useful.
 - Maarten Grootendorst. [A Visual Giude to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms). Feb 2025.
   - [A Visual Guide to Mixture of Experts](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts). Oct 2024.
   - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization). Jul 2024.
-    - ngrok blog. [Quantization from the ground up](https://ngrok.com/blog/quantization). Mar 2026.
+    - ngrok blog. [Quantization from the ground up](https://ngrok.com/blog/quantization). Mar 2026. (read this before the above)
 - AI in Plain English. [Beyond the Curve: A Holistic Guide to Activation Functions (From Sigmoid to SwiGLU)](https://ai.plainenglish.io/beyond-the-curve-a-holistic-guide-to-activation-functions-from-sigmoid-to-swiglu-3e96faaa7a84). Jan 2026.
 - 자손킴(jasonkim). [Claude Code가 모델이 하지도 않은 말을 했다고 하는 이유](https://hackers.pub/@jasonkim/2025/claude-code-prefill). Dec 2025.
 
@@ -42,7 +42,7 @@ Good AI learning resources I have found useful.
 
 ### Security
 - Simon Willison. [The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/). Jun 2025.
-- ASD’s ACSC, CISA, NSA, Cyber Center, NCSC NZ, & NCSC UK. *[Careful Adoption of Agentic AI Services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)*. May 2026.
+- ACSC, CISA, NSA, Cyber Center, NCSC NZ, & NCSC UK. *[Careful Adoption of Agentic AI Services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)*. May 2026.
 - Nvidia Technical Blog. [Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk](https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/). Jan 2026.
 - Luis Cardoso. [A field guide to sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai). Jan 2026.
 
@@ -55,7 +55,10 @@ Good AI learning resources I have found useful.
 
 ## AI "Safety"
 - Ben Recht. [The Banal Evil of AI Safety](https://www.argmin.net/p/the-banal-evil-of-ai-safety). Aug 2025.
-- [Taxonomy of AI Risks](DomainTaxonomyofAIRisks.md) from MIT AI Risk Initiative, [AI Risk Repository](https://airisk.mit.edu/risks). Mar 2026.
-- [Types of "Misalignment"](misalignment.md) from OpenAI Safety Blog, [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). May 2026.
+- Peter Slattery et al. [Taxonomy of AI Risks](DomainTaxonomyofAIRisks.md) from [AI Risk Repository](https://airisk.mit.edu/risks). Mar 2026.
 - Yoshua Bengio et al. *[International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)*. Feb 2026.
+
+### "Alignment"
+- OpenAI Safety Blog. [Types of "Misalignment"](misalignment.md) from [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). May 2026.
+- Séb Krier. [Scary model cards and the discourse shifting](https://x.com/sebkrier/status/2020561261751062664). Feb 2026.
 
