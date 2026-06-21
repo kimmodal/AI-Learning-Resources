@@ -61,5 +61,3 @@ Good AI learning resources I have found useful.
 ### "Alignment"
 - Séb Krier. [Scary model cards and the discourse shifting](https://x.com/sebkrier/status/2020561261751062664). Feb 2026.
 - OpenAI Safety Blog. [Types of Misalignment](misalignment.md) from [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). May 2026.
-
-
