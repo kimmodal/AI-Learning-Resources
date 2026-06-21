@@ -1,8 +1,6 @@
 # AI Learning Resources
 Good AI learning resources I have found useful. 
-
-- I tried to list them in a suggested reading order.
-- Prerequisite: Basic knowledge of programming or how computers work at the level of first year CS intro course
+I tried to list them in a suggested reading order.
 
 ## General Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
@@ -45,6 +43,7 @@ Good AI learning resources I have found useful.
 - ACSC, CISA, NSA, Cyber Center, NCSC NZ, & NCSC UK. *[Careful Adoption of Agentic AI Services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)*. May 2026.
 - Nvidia Technical Blog. [Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk](https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/). Jan 2026.
 - Luis Cardoso. [A field guide to sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai). Jan 2026.
+- OpenAI Safety Blog. [Types of Misalignment](misalignment.md) from [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). May 2026.
 
 ## Training
 - Kyongchun Cho. [You want to train language models yourself from scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view). CHIL. 2024.
