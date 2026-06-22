@@ -13,6 +13,7 @@ I tried to list them in a suggested reading order.
 
 ### More Stuffs
 - Jay Alammar & Maarten Grootendorst. Ch 9. Multimodal Large Language Models. *Hands-on Large Language Models*. O'Reilly. 2024. 
+- Jay Alammar. [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/). Oct 2022.
 - Maarten Grootendorst. [A Visual Giude to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms). Feb 2025.
   - [A Visual Guide to Mixture of Experts](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts). Oct 2024.
   - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization). Jul 2024.
