@@ -22,7 +22,8 @@ I tried to list them in a suggested reading order.
 - 자손킴(jasonkim). [Claude Code가 모델이 하지도 않은 말을 했다고 하는 이유](https://hackers.pub/@jasonkim/2025/claude-code-prefill). Dec 2025.
 
 ### Even More Stuffs
-- Maarten Grootendorst. [A Visual Guide to DiffusionGemma](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-diffusiongemma). Jun 2026.
+- Maarten Grootendorst. [A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state). Feb 2024.
+  - [A Visual Guide to DiffusionGemma](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-diffusiongemma). Jun 2026.
 - Afshine Amidi & Shervine Amidi. *[CME 295: Transformers & Large Language Models](https://cme295.stanford.edu/syllabus/)*. Stanford. Fall 2025.
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
 
