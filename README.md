@@ -10,7 +10,7 @@ I tried to list them in a suggested reading order.
 3. Modern LLM Systems
 4. Training
 5. Agents
-   - What is an Agent?
+   - What Is an Agent?
    - Agentic Engineering
    - Agent Security
 6. AI "Safety"
@@ -51,7 +51,7 @@ I tried to list them in a suggested reading order.
   - [Frontier Post-Training Recipe Survey](https://rlhfbook.com/teach/course/conversation-01). Jun 2026.
 
 ## Agents
-### What is an Agent?
+### What Is an Agent?
 - Ben Recht. [Secrets of Intelligence Services](https://www.argmin.net/p/secrets-of-intelligence-services). Feb 2026.
 - Thomas Ptacek. [You Should Write an Agent](https://fly.io/blog/everyone-write-an-agent/). Nov 2025.
 - *[Agents Course](https://huggingface.co/learn/agents-course/unit1/introduction)* Unit 1. Hugging Face. 2025.
