@@ -3,8 +3,8 @@ Good AI learning resources I have found useful.
 I tried to list them in a suggested reading order.
 
 ### TODO
-- [ ] add annotations
-- [ ] add Korean version
+- Add brief annotations for each resource.
+- Add a Korean version.
 
 ## Table of Contents
 1. AI Engineering Overview
