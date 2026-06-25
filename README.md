@@ -3,11 +3,11 @@ Good AI learning resources I have found useful.
 I tried to list them in a suggested reading order.
 
 ## Table of Contents
-1. General Overview
+1. AI Engineering Overview
 2. Architectures
-   - Tramsformers
+   - Transformers
    - Further Topics
-3. Language Models Today
+3. Modern LLM Systems
 4. Training
 5. Agents
    - What is an Agent?
@@ -18,7 +18,7 @@ I tried to list them in a suggested reading order.
    - "Alignment"
 7. AI Writing Smells
 
-## General Overview
+## AI Engineering Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
 
 ## Architectures 
@@ -40,7 +40,7 @@ I tried to list them in a suggested reading order.
 - 자손킴(jasonkim). [Claude Code가 모델이 하지도 않은 말을 했다고 하는 이유](https://hackers.pub/@jasonkim/2025/claude-code-prefill). Dec 2025.
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
 
-## Language Models Today
+## Modern Language Model Systems
 - Tatsunori Hashimoto & Percy Liang. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford. Spring 2026.
 - Alisa Liu. [Alisa's book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
 
