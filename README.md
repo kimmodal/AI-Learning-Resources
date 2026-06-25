@@ -80,14 +80,14 @@ I tried to list them in a suggested reading order.
 
 ### "Alignment"
 - Séb Krier. [Scary Model Cards and the Discourse Shifting](https://x.com/sebkrier/status/2020561261751062664). Feb 2026.
-  - [Why Models Won't Blackmail You out of Nowhere](https://x.com/sebkrier/status/1938236656298995798). Jun 2025.
+  - [Why Models Won't Blackmail You Out of Nowhere](https://x.com/sebkrier/status/1938236656298995798). Jun 2025.
 - Christopher Summerfield et al. [Lessons from a Chimp: AI ‘Scheming’ and the Quest for Ape Language](https://arxiv.org/pdf/2507.03409). Jul 2025.
 
 ## AI Writing Smells
 - Sam Kriss. [Why Does A.I. Write Like … That?](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html). The New York Times. Dec 2025.
 - [Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing). Wikipedia.
 - Shiv Bosale. [Various LLM Smells](https://shvbsle.in/various-llm-smells/). May 2026.
-- Sarah Perez. [OpenAI says it’s fixed ChatGPT’s em dash problem](https://techcrunch.com/2025/11/14/openai-says-its-fixed-chatgpts-em-dash-problem/). TechCrunch. Nov 2025.
+- Sarah Perez. [OpenAI Says It’s Fixed ChatGPT’s Em dash Problem](https://techcrunch.com/2025/11/14/openai-says-its-fixed-chatgpts-em-dash-problem/). TechCrunch. Nov 2025.
 - Shaina Mishkin. [It's Not Just a Trend, It's a Phenomenon](images/itsnot.webp) from [AI Is Changing How Companies Talk to Shareholders. Here Is the Red Flag for Readers](https://www.barrons.com/articles/ai-corporate-communications-shareholders-red-flag-63211618). Barron's. Apr 2026. 
-- Nathan Lambert. [Why AI writing is mid](https://www.interconnects.ai/p/why-ai-writing-is-mid). Nov 2025.
-- Lina Abushouk. [How to read postcolonial writing](https://africasacountry.com/2026/05/how-to-read-postcolonial-writing). Africa Is a Country. May 2026.
+- Nathan Lambert. [Why AI writing is Mid](https://www.interconnects.ai/p/why-ai-writing-is-mid). Nov 2025.
+- Lina Abushouk. [How to Read Postcolonial Writing](https://africasacountry.com/2026/05/how-to-read-postcolonial-writing). Africa Is a Country. May 2026.
