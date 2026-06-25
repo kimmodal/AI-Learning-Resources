@@ -66,3 +66,8 @@ I tried to list them in a suggested reading order.
   - [Why models won't blackmail you out of nowhere](https://x.com/sebkrier/status/1938236656298995798). Jun 2025.
 - Christopher Summerfield et al. [Lessons from a Chimp: AI ‘Scheming’ and the Quest for Ape Language](https://arxiv.org/pdf/2507.03409). Jul 2025.
 - OpenAI Safety Blog. [Types of Misalignment](misalignment.md) from [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). May 2026.
+
+## AI Smells
+- [Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing). *Wikipedia*.
+- Shiv Bosale. [Various LLM Smells](https://shvbsle.in/various-llm-smells/). May 2026.
+- Nathan Lambert. [Why AI writing is mid](https://www.interconnects.ai/p/why-ai-writing-is-mid). Nov 2025.
