@@ -26,7 +26,13 @@ I tried to list them in a suggested reading order.
 
 ## Language Models Today
 - Tatsunori Hashimoto & Percy Liang. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford. Spring 2026.
-- Alisa Liu. [Alisa's book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026. 
+- Alisa Liu. [Alisa's book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
+
+## Training
+- Kyongchun Cho. [You want to train language models yourself from scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view). CHIL. 2024.
+- Yann Dubois. [Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf). *CS294/194-196: Agentic AI*. UC Berkeley. Fall 2025.
+- Nathan Lambert. [Building OLMo in the Era of Agents](https://natolambert.com/slides). Feb 2026.
+  - [Frontier post-training receip survey](https://rlhfbook.com/teach/course/conversation-01). Jun 2026.
 
 ## Agents
 - Ben Recht. [Secrets of Intelligence Services](https://www.argmin.net/p/secrets-of-intelligence-services). Feb 2026.
@@ -48,12 +54,6 @@ I tried to list them in a suggested reading order.
 - Rich Harang. [Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk](https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/). Nvidia Technical Blog. Jan 2026.
 - Luis Cardoso. [A field guide to sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai). Jan 2026.
 - [Types of Misalignment](misalignment.md) from [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). OpenAI Safety Blog. May 2026.
-
-## Training
-- Kyongchun Cho. [You want to train language models yourself from scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view). CHIL. 2024.
-- Yann Dubois. [Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf). *CS294/194-196: Agentic AI*. UC Berkeley. Fall 2025.
-- Nathan Lambert. [Building OLMo in the Era of Agents](https://natolambert.com/slides). Feb 2026.
-  - [Frontier post-training receip survey](https://rlhfbook.com/teach/course/conversation-01). Jun 2026.
 
 ## AI "Safety"
 - Ben Recht. [The Banal Evil of AI Safety](https://www.argmin.net/p/the-banal-evil-of-ai-safety). Aug 2025.
