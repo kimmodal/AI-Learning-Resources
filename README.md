@@ -2,7 +2,7 @@
 Good AI learning resources I have found useful.</br>
 I tried to list them in a suggested reading order.
 
-#### TODO
+**TODO**
 - Add links for ToC
 - Add brief annotations for each resource.
 - Add a Korean version.
@@ -13,7 +13,7 @@ I tried to list them in a suggested reading order.
    - Transformers
    - Further Topics
 3. Training
-4. Advanced: Modern LLM Systems
+4. Advanced: Modern Language Model Systems
 5. Agents
    - What Is an Agent?
    - Agentic Engineering
