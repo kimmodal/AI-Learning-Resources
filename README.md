@@ -20,7 +20,7 @@ I tried to list them in a suggested reading order.
     - ngrok blog. [Quantization from the ground up](https://ngrok.com/blog/quantization). Mar 2026. (read this before the article above)
   - [A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state). Feb 2024.
   - [A Visual Guide to DiffusionGemma](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-diffusiongemma). Jun 2026.
-- AI in Plain English. [Beyond the Curve: A Holistic Guide to Activation Functions (From Sigmoid to SwiGLU)](https://ai.plainenglish.io/beyond-the-curve-a-holistic-guide-to-activation-functions-from-sigmoid-to-swiglu-3e96faaa7a84). Jan 2026.
+- Devi. [Beyond the Curve: A Holistic Guide to Activation Functions (From Sigmoid to SwiGLU)](https://ai.plainenglish.io/beyond-the-curve-a-holistic-guide-to-activation-functions-from-sigmoid-to-swiglu-3e96faaa7a84). *AI in Plain English*. Jan 2026.
 - 자손킴(jasonkim). [Claude Code가 모델이 하지도 않은 말을 했다고 하는 이유](https://hackers.pub/@jasonkim/2025/claude-code-prefill). Dec 2025.
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
 
@@ -28,16 +28,15 @@ I tried to list them in a suggested reading order.
 - Tatsunori Hashimoto & Percy Liang. *[CS336: Language Model from Scratch](https://cs336.stanford.edu)*. Stanford. Spring 2026.
 - Alisa Liu. [Alisa's book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026. 
 
-
 ## Agents
 - Ben Recht. [Secrets of Intelligence Service Services](https://www.argmin.net/p/secrets-of-intelligence-services). Feb 2026.
 - Thomas Ptack. [You Should Write an Agent](https://fly.io/blog/everyone-write-an-agent/). Nov 2025.
-- Huggingface. *[Agents Course](https://huggingface.co/learn/agents-course/unit1/introduction)* Unit 1. 2025.
-- OpenAI Developer Docs. [Function Calling](https://developers.openai.com/api/docs/guides/function-calling). 
-- OpenAI Engineering Blog. [Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/). Jan 2026.
+- *[Agents Course](https://huggingface.co/learn/agents-course/unit1/introduction)* Unit 1. *Huggingface*. 2025.
+- [Function Calling](https://developers.openai.com/api/docs/guides/function-calling). *OpenAI Developer Docs*. 
+- Michael Bolin. [Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/). *OpenAI Engineering Blog*. Jan 2026.
 - 자손킴(jasonkim). [Claude API의 Request Body 분석](https://hackers.pub/@jasonkim/2025/claude-api-request-body). Dec 2025.
     - [Claude Code의 거의 모든 것은 Tool Use입니다. MCP도 subagent도 skills 역시요](https://hackers.pub/@jasonkim/2025/agent-tool-use), [Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use), & [MCP도 Tool Use를 사용합니다](https://hackers.pub/@jasonkim/2025/mcp-is-tool-use). Dec 2025.
-- Cloudflare Blog. [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/). May 2026.
+- Grant Bourzikas. [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/). *The Cloudflare Blog*. May 2026.
 - Nader Dabit. [You Could've Invented OpenClaw](https://gist.github.com/dabit3/bc60d3bea0b02927995cd9bf53c3db32). Feb 2026.
 
 ### Agentic Engineering
@@ -46,9 +45,9 @@ I tried to list them in a suggested reading order.
 ### Security
 - Simon Willison. [The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/). Jun 2025.
 - ACSC, CISA, NSA, Cyber Center, NCSC NZ, & NCSC UK. *[Careful Adoption of Agentic AI Services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)*. May 2026.
-- Nvidia Technical Blog. [Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk](https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/). Jan 2026.
+- Rich Harag. [Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk](https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/). *Nvidia Technical Blog*. Jan 2026.
 - Luis Cardoso. [A field guide to sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai). Jan 2026.
-- OpenAI Safety Blog. [Types of Misalignment](misalignment.md) from [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). May 2026.
+- [Types of Misalignment](misalignment.md) from [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). *OpenAI Safety Blog*. May 2026.
 
 ## Training
 - Kyongchun Cho. [You want to train language models yourself from scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view). CHIL. 2024.
@@ -65,7 +64,6 @@ I tried to list them in a suggested reading order.
 - Séb Krier. [Scary model cards and the discourse shifting](https://x.com/sebkrier/status/2020561261751062664). Feb 2026.
   - [Why models won't blackmail you out of nowhere](https://x.com/sebkrier/status/1938236656298995798). Jun 2025.
 - Christopher Summerfield et al. [Lessons from a Chimp: AI ‘Scheming’ and the Quest for Ape Language](https://arxiv.org/pdf/2507.03409). Jul 2025.
-- OpenAI Safety Blog. [Types of Misalignment](misalignment.md) from [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). May 2026.
 
 ## AI Smells
 - Sam Kriss. [Why Does A.I. Write Like … That?](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html). *The New York Times*. Dec 2025.
