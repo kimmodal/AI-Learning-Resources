@@ -5,13 +5,13 @@ I tried to list them in a suggested reading order.
 ## General Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
 
-## Architectures of Language Models
-### Transformer
+## Architectures 
+### Transformers
 - Jay Alammar & Maarten Grootendorst. Ch 3. Inside Large Language Models. *Hands-on Large Language Models*. O'Reilly. 2024. 
 - 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). Apr 2026.
 - Lucas Beyer. [Transformer Tutorial](https://lucasb.eyer.be/transformer). Sep 2022.
 
-### Additional Concepts
+### Further Topics
 - Jay Alammar & Maarten Grootendorst. Ch 9. Multimodal Large Language Models. *Hands-on Large Language Models*. O'Reilly. 2024. 
 - Jay Alammar. [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/). Oct 2022.
 - Maarten Grootendorst. [A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms). Feb 2025.
@@ -43,10 +43,10 @@ I tried to list them in a suggested reading order.
 - 자손킴(jasonkim). [Claude API의 Request Body 분석](https://hackers.pub/@jasonkim/2025/claude-api-request-body). Dec 2025.
     - [Claude Code의 거의 모든 것은 Tool Use입니다. MCP도 subagent도 skills 역시요](https://hackers.pub/@jasonkim/2025/agent-tool-use), [Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use), & [MCP도 Tool Use를 사용합니다](https://hackers.pub/@jasonkim/2025/mcp-is-tool-use). Dec 2025.
 - Grant Bourzikas. [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/). *The Cloudflare Blog*. May 2026.
-- Nader Dabit. [You Could've Invented OpenClaw](https://gist.github.com/dabit3/bc60d3bea0b02927995cd9bf53c3db32). Feb 2026.
 
 ### Agentic Engineering
 - Mario Zechner. [Prompts are code, .json/.md files are state](https://mariozechner.at/posts/2025-06-02-prompts-are-code/). Jun 2025.
+- Nader Dabit. [You Could've Invented OpenClaw](https://gist.github.com/dabit3/bc60d3bea0b02927995cd9bf53c3db32). Feb 2026.
 
 ### Agent Security
 - Simon Willison. [The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/). Jun 2025.
