@@ -9,7 +9,7 @@ I tried to list them in a suggested reading order.
 ### Transformer
 - Jay Alammar & Maarten Grootendorst. Ch 3. Inside Large Language Models. *Hands-on Large Language Models*. O'Reilly. 2024. 
 - 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). Apr 2026.
-- Lucas Beyer. [Transformer Tutorial](https://lucasb.eyer.be/transformer). Sep 2022
+- Lucas Beyer. [Transformer Tutorial](https://lucasb.eyer.be/transformer). Sep 2022.
 
 ### More Stuffs
 - Jay Alammar & Maarten Grootendorst. Ch 9. Multimodal Large Language Models. *Hands-on Large Language Models*. O'Reilly. 2024. 
