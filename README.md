@@ -68,12 +68,10 @@ I tried to list them in a suggested reading order.
 - OpenAI Safety Blog. [Types of Misalignment](misalignment.md) from [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). May 2026.
 
 ## AI Smells
+- Sam Kriss. [Why Does A.I. Write Like … That?](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html). *The New York Times*. Dec 2025.
 - [Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing). *Wikipedia*.
 - Shiv Bosale. [Various LLM Smells](https://shvbsle.in/various-llm-smells/). May 2026.
 - TechCrunch. [OpenAI says it’s fixed ChatGPT’s em dash problem](https://techcrunch.com/2025/11/14/openai-says-its-fixed-chatgpts-em-dash-problem/). Nov 2025.
 - Barron's. [It's Not Just a Trend, It's a Phenomenon](images/itsnot.webp) from [AI Is Changing How Companies Talk to Shareholders. Here Is the Red Flag for Readers](https://www.barrons.com/articles/ai-corporate-communications-shareholders-red-flag-63211618). April 2026. 
 - Nathan Lambert. [Why AI writing is mid](https://www.interconnects.ai/p/why-ai-writing-is-mid). Nov 2025.
 - Lina Abushouk. [How to read postcolonial writing](https://africasacountry.com/2026/05/how-to-read-postcolonial-writing). *Africa Is a Country*. May 2026.
-- Yekyung Kim et al. [Argument Collapse: LLMs Flatten Long-Form Public Debate](https://arxiv.org/abs/2606.01736) Jun 2026.
-- Jenna Russell et al. [StoryScope: Investigating idiosyncrasies in AI fiction](https://arxiv.org/abs/2604.03136). Apr 2026.
-- Jenna Russell et al. [People who frequently use ChatGPT for writing tasks are accurate and robust detectors of AI-generated text](https://arxiv.org/abs/2501.15654). Jan 2025.
