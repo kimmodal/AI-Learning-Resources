@@ -10,9 +10,9 @@ I tried to list them in a suggested reading order.
 3. Language Models Today
 4. Training
 5. Agents
-   A. What is an Agent?
-   B. Agentic Engineering
-   C. Agent Security
+  A. What is an Agent?
+  B. Agentic Engineering
+  C. Agent Security
 6. AI "Safety"
   A. Overview
   B. "Alignment"
