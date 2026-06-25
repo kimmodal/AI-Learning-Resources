@@ -23,12 +23,12 @@ I tried to list them in a suggested reading order.
 
 ## Architectures 
 ### Transformers
-- Jay Alammar & Maarten Grootendorst. Inside Large Language Models in *Hands-on Large Language Models*, Chapter 3. O'Reilly. 2024. 
+- Jay Alammar & Maarten Grootendorst. Ch 3 Inside Large Language Models in *Hands-on Large Language Models*. O'Reilly. 2024. 
 - 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). Apr 2026.
 - Lucas Beyer. [Transformer Tutorial](https://lucasb.eyer.be/transformer). Sep 2022.
 
 ### Further Topics
-- Jay Alammar & Maarten Grootendorst. Multimodal Large Language Models in *Hands-on Large Language Models*, Chapter 9. O'Reilly. 2024. 
+- Jay Alammar & Maarten Grootendorst. Ch 9 Multimodal Large Language Models in *Hands-on Large Language Models*. O'Reilly. 2024. 
 - Jay Alammar. [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/). Oct 2022.
 - Maarten Grootendorst. [A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms). Feb 2025.
   - [A Visual Guide to Mixture of Experts](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts). Oct 2024.
@@ -41,12 +41,12 @@ I tried to list them in a suggested reading order.
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
 
 ## Modern Language Model Systems
-- Tatsunori Hashimoto & Percy Liang. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford. Spring 2026.
+- Tatsunori Hashimoto & Percy Liang. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University, Spring 2026.
 - Alisa Liu. [Alisa's book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
 
 ## Training
 - Kyongchun Cho. [You want to train language models yourself from scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view). CHIL. 2024.
-- Yann Dubois. [Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf). *CS294/194-196: Agentic AI*. UC Berkeley. Fall 2025.
+- Yann Dubois. [Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf). *CS294/194-196: Agentic AI*. UC Berkeley, Fall 2025.
 - Nathan Lambert. [Building OLMo in the Era of Agents](https://natolambert.com/slides). Feb 2026.
   - [Frontier post-training recipe survey](https://rlhfbook.com/teach/course/conversation-01). Jun 2026.
 
@@ -59,7 +59,7 @@ I tried to list them in a suggested reading order.
 - Michael Bolin. [Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/). OpenAI Engineering Blog. Jan 2026.
 - 자손킴(jasonkim). [Claude API의 Request Body 분석](https://hackers.pub/@jasonkim/2025/claude-api-request-body). Dec 2025.
     - [Claude Code의 거의 모든 것은 Tool Use입니다. MCP도 subagent도 skills 역시요](https://hackers.pub/@jasonkim/2025/agent-tool-use), [Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use), & [MCP도 Tool Use를 사용합니다](https://hackers.pub/@jasonkim/2025/mcp-is-tool-use). Dec 2025.
-- Grant Bourzikas. [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/). *The Cloudflare Blog*. May 2026.
+- Grant Bourzikas. [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/). The Cloudflare Blog. May 2026.
 
 ### Agentic Engineering
 - Mario Zechner. [Prompts are code, .json/.md files are state](https://mariozechner.at/posts/2025-06-02-prompts-are-code/). Jun 2025.
