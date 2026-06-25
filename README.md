@@ -33,7 +33,7 @@ I tried to list them in a suggested reading order.
 - Maarten Grootendorst. [A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms). Feb 2025.
   - [A Visual Guide to Mixture of Experts](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts). Oct 2024.
   - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization). Jul 2024.
-    - Sam Rose. [Quantization From the Ground Up](https://ngrok.com/blog/quantization). ngrok blog. Mar 2026. (read this before the article above)
+    - Sam Rose. [Quantization from the Ground Up](https://ngrok.com/blog/quantization). ngrok blog. Mar 2026. (read this before the article above)
   - [A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state). Feb 2024.
   - [A Visual Guide to DiffusionGemma](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-diffusiongemma). Jun 2026.
 - Devi. [Beyond the Curve: A Holistic Guide to Activation Functions (From Sigmoid to SwiGLU)](https://ai.plainenglish.io/beyond-the-curve-a-holistic-guide-to-activation-functions-from-sigmoid-to-swiglu-3e96faaa7a84). AI in Plain English. Jan 2026.
@@ -45,7 +45,7 @@ I tried to list them in a suggested reading order.
 - Alisa Liu. [Alisa's Book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
 
 ## Training
-- Kyongchun Cho. [You Want to Train Language Models Yourself From Scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view). CHIL. 2024.
+- Kyongchun Cho. [You Want to Train Language Models Yourself from Scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view). CHIL. 2024.
 - Yann Dubois. [Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf). *CS294/194-196: Agentic AI*. UC Berkeley. Fall 2025.
 - Nathan Lambert. [Building OLMo in the Era of Agents](https://natolambert.com/slides). Feb 2026.
   - [Frontier Post-Training Recipe Survey](https://rlhfbook.com/teach/course/conversation-01). Jun 2026.
@@ -66,11 +66,11 @@ I tried to list them in a suggested reading order.
 - Nader Dabit. [You Could've Invented OpenClaw](https://gist.github.com/dabit3/bc60d3bea0b02927995cd9bf53c3db32). Feb 2026.
 
 ### Agent Security
-- Simon Willison. [The Lethal Trifecta For AI Agents: Private data, Untrusted content, and External communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/). Jun 2025.
+- Simon Willison. [The Lethal Trifecta for AI Agents: Private data, Untrusted Content, and External Communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/). Jun 2025.
 - ACSC, CISA, NSA, Cyber Center, NCSC NZ, & NCSC UK. *[Careful Adoption of Agentic AI Services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)*. May 2026.
 - Rich Harang. [Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk](https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/). Nvidia Technical Blog. Jan 2026.
-- Luis Cardoso. [A Field Guide to Sandboxes For AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai). Jan 2026.
-- [Types of Misalignment](misalignment.md) from [How We Monitor Internal Coding Agents For Misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). OpenAI Safety Blog. May 2026.
+- Luis Cardoso. [A Field Guide to Sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai). Jan 2026.
+- [Types of Misalignment](misalignment.md) from [How We Monitor Internal Coding Agents for Misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). OpenAI Safety Blog. May 2026.
 
 ## AI "Safety"
 ### Overview
@@ -79,8 +79,8 @@ I tried to list them in a suggested reading order.
 - Yoshua Bengio et al. *[International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)*. Feb 2026.
 
 ### "Alignment"
-- Séb Krier. [Scary Model Cards and the discourse shifting](https://x.com/sebkrier/status/2020561261751062664). Feb 2026.
-  - [Why models won't blackmail you out of nowhere](https://x.com/sebkrier/status/1938236656298995798). Jun 2025.
+- Séb Krier. [Scary Model Cards and the Discourse Shifting](https://x.com/sebkrier/status/2020561261751062664). Feb 2026.
+  - [Why Models Won't Blackmail You out of Nowhere](https://x.com/sebkrier/status/1938236656298995798). Jun 2025.
 - Christopher Summerfield et al. [Lessons from a Chimp: AI ‘Scheming’ and the Quest for Ape Language](https://arxiv.org/pdf/2507.03409). Jul 2025.
 
 ## AI Writing Smells
