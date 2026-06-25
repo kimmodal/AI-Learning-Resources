@@ -2,6 +2,22 @@
 Good AI learning resources I have found useful. 
 I tried to list them in a suggested reading order.
 
+## Table of Contents
+1. General Overview
+2. Architectures
+  A. Tramsformers
+  B. Further Topics
+3. Language Models Today
+4. Training
+5. Agents
+   A. What is an Agent?
+   B. Agentic Engineering
+   C. Agent Security
+6. AI "Safety"
+  A. Overview
+  B. "Alignment"
+7. AI Writing Smells
+
 ## General Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
 
@@ -35,6 +51,7 @@ I tried to list them in a suggested reading order.
   - [Frontier post-training recipe survey](https://rlhfbook.com/teach/course/conversation-01). Jun 2026.
 
 ## Agents
+### What is an Agent?
 - Ben Recht. [Secrets of Intelligence Services](https://www.argmin.net/p/secrets-of-intelligence-services). Feb 2026.
 - Thomas Ptacek. [You Should Write an Agent](https://fly.io/blog/everyone-write-an-agent/). Nov 2025.
 - *[Agents Course](https://huggingface.co/learn/agents-course/unit1/introduction)* Unit 1. Hugging Face. 2025.
@@ -56,6 +73,7 @@ I tried to list them in a suggested reading order.
 - [Types of Misalignment](misalignment.md) from [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). OpenAI Safety Blog. May 2026.
 
 ## AI "Safety"
+### Overview
 - Ben Recht. [The Banal Evil of AI Safety](https://www.argmin.net/p/the-banal-evil-of-ai-safety). Aug 2025.
 - Peter Slattery et al. [Taxonomy of AI Risks](DomainTaxonomyofAIRisks.md) from [AI Risk Repository](https://airisk.mit.edu/risks). Mar 2026.
 - Yoshua Bengio et al. *[International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)*. Feb 2026.
