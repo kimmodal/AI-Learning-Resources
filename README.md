@@ -65,7 +65,7 @@ I tried to list them in a suggested reading order.
   - [Why models won't blackmail you out of nowhere](https://x.com/sebkrier/status/1938236656298995798). Jun 2025.
 - Christopher Summerfield et al. [Lessons from a Chimp: AI ‘Scheming’ and the Quest for Ape Language](https://arxiv.org/pdf/2507.03409). Jul 2025.
 
-## AI Smells
+## AI Writing Smells
 - Sam Kriss. [Why Does A.I. Write Like … That?](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html). *The New York Times*. Dec 2025.
 - [Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing). *Wikipedia*.
 - Shiv Bosale. [Various LLM Smells](https://shvbsle.in/various-llm-smells/). May 2026.
