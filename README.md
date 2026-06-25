@@ -5,7 +5,7 @@ I tried to list them in a suggested reading order.
 ## General Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
 
-## Fundamentals of Language Models
+## Architectures of Language Models
 ### Transformer
 - Jay Alammar & Maarten Grootendorst. Ch 3. Inside Large Language Models. *Hands-on Large Language Models*. O'Reilly. 2024. 
 - 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). Apr 2026.
