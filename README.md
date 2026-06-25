@@ -74,6 +74,6 @@ I tried to list them in a suggested reading order.
 - Barron's. [It's Not Just a Trend, It's a Phenomenon](images/itsnot.webp) from [AI Is Changing How Companies Talk to Shareholders. Here Is the Red Flag for Readers](https://www.barrons.com/articles/ai-corporate-communications-shareholders-red-flag-63211618). April 2026. 
 - Nathan Lambert. [Why AI writing is mid](https://www.interconnects.ai/p/why-ai-writing-is-mid). Nov 2025.
 - Lina Abushouk. [How to read postcolonial writing](https://africasacountry.com/2026/05/how-to-read-postcolonial-writing). *Africa Is a Country*. May 2026.
-- Yekyung Kim et al. [Argument Collapse: LLMs Flatten Long-Form Public Debate](https://arxiv.org/abs/2606.01736)) Jun 2026.
+- Yekyung Kim et al. [Argument Collapse: LLMs Flatten Long-Form Public Debate](https://arxiv.org/abs/2606.01736) Jun 2026.
 - Jenna Russell et al. [StoryScope: Investigating idiosyncrasies in AI fiction](https://arxiv.org/abs/2604.03136). Apr 2026.
 - Jenna Russell et al. [People who frequently use ChatGPT for writing tasks are accurate and robust detectors of AI-generated text](https://arxiv.org/abs/2501.15654). Jan 2025.
