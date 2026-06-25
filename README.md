@@ -32,7 +32,7 @@ I tried to list them in a suggested reading order.
 - Kyongchun Cho. [You want to train language models yourself from scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view). CHIL. 2024.
 - Yann Dubois. [Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf). *CS294/194-196: Agentic AI*. UC Berkeley. Fall 2025.
 - Nathan Lambert. [Building OLMo in the Era of Agents](https://natolambert.com/slides). Feb 2026.
-  - [Frontier post-training receip survey](https://rlhfbook.com/teach/course/conversation-01). Jun 2026.
+  - [Frontier post-training recipe survey](https://rlhfbook.com/teach/course/conversation-01). Jun 2026.
 
 ## Agents
 - Ben Recht. [Secrets of Intelligence Services](https://www.argmin.net/p/secrets-of-intelligence-services). Feb 2026.
