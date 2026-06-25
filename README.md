@@ -69,6 +69,6 @@ I tried to list them in a suggested reading order.
 
 ## AI Smells
 - [Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing). *Wikipedia*.
-- Barron's. It's Not Just a Trend, It's a Phenomenon from [AI Is Changing How Companies Talk to Shareholders. Here Is the Red Flag for Readers](https://www.barrons.com/articles/ai-corporate-communications-shareholders-red-flag-63211618). April 2026. 
+- Barron's. [It's Not Just a Trend, It's a Phenomenon](images/itsnot.webp) from [AI Is Changing How Companies Talk to Shareholders. Here Is the Red Flag for Readers](https://www.barrons.com/articles/ai-corporate-communications-shareholders-red-flag-63211618). April 2026. 
 - Shiv Bosale. [Various LLM Smells](https://shvbsle.in/various-llm-smells/). May 2026.
 - Nathan Lambert. [Why AI writing is mid](https://www.interconnects.ai/p/why-ai-writing-is-mid). Nov 2025.
