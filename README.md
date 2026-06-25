@@ -1,5 +1,5 @@
 # AI Learning Resources
-Good AI learning resources I have found useful. 
+Good AI learning resources I have found useful.</br>
 I tried to list them in a suggested reading order.
 
 #### TODO
