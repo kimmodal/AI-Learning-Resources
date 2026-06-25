@@ -1,5 +1,5 @@
 # AI Learning Resources
-Good AI learning resources I have found useful.</br>
+Good AI learning resources I have found useful.<br>
 I tried to list them in a suggested reading order.
 
 **TODO**
@@ -26,7 +26,7 @@ I tried to list them in a suggested reading order.
 ## AI Engineering Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
 
-## Architectures 
+## Architectures
 ### Transformers
 - Jay Alammar & Maarten Grootendorst. Ch 3: Inside Large Language Models. In *Hands-on Large Language Models*. O'Reilly. 2024. 
 - 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). Apr 2026.
@@ -50,7 +50,7 @@ I tried to list them in a suggested reading order.
 - Yann Dubois. [Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf). *CS294/194-196: Agentic AI*. UC Berkeley. Fall 2025.
 - Nathan Lambert. [Building OLMo in the Era of Agents](https://natolambert.com/slides). Feb 2026.
   - [Frontier Post-Training Recipe Survey](https://rlhfbook.com/teach/course/conversation-01). Jun 2026.
- 
+
 ## Advanced: Modern Language Model Systems
 - Tatsunori Hashimoto & Percy Liang. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University. Spring 2026.
 - Alisa Liu. [Alisa's Book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
