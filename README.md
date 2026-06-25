@@ -11,7 +11,7 @@ I tried to list them in a suggested reading order.
 - 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). Apr 2026.
 - Lucas Beyer. [Transformer Tutorial](https://lucasb.eyer.be/transformer). Sep 2022.
 
-### More Stuffs
+### Beyond Simple Transformers
 - Jay Alammar & Maarten Grootendorst. Ch 9. Multimodal Large Language Models. *Hands-on Large Language Models*. O'Reilly. 2024. 
 - Jay Alammar. [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/). Oct 2022.
 - Maarten Grootendorst. [A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms). Feb 2025.
