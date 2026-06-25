@@ -5,7 +5,7 @@ I tried to list them in a suggested reading order.
 ## General Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
 
-## Fundamentals of LLMs
+## Fundamentals of Language Models
 ### Transformer
 - Jay Alammar & Maarten Grootendorst. Ch 3. Inside Large Language Models. *Hands-on Large Language Models*. O'Reilly. 2024. 
 - 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). Apr 2026.
@@ -24,8 +24,12 @@ I tried to list them in a suggested reading order.
 ### Even More Stuffs
 - Maarten Grootendorst. [A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state). Feb 2024.
   - [A Visual Guide to DiffusionGemma](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-diffusiongemma). Jun 2026.
-- Afshine Amidi & Shervine Amidi. *[CME 295: Transformers & Large Language Models](https://cme295.stanford.edu/syllabus/)*. Stanford. Fall 2025.
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
+
+## Language Models Today
+- Tatsunori Hashimoto & Percy Liang. *[CS336: Language Model from Scratch](https://cs336.stanford.edu)*. Stanford. Spring 2026.
+- Alisa Liu. [Alisa's book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026. 
+
 
 ## Agents
 - Ben Recht. [Secrets of Intelligence Service Services](https://www.argmin.net/p/secrets-of-intelligence-services). Feb 2026.
@@ -53,7 +57,6 @@ I tried to list them in a suggested reading order.
 - Yaan Dubois. [Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf). *CS294/194-196: Agentic AI*. Stanford. Fall 2025.
 - Nathan Lambert. [Building OLMO in the Era of Agents](https://natolambert.com/slides). Feb 2026.
   - [Frontier post-training receipt survey](https://rlhfbook.com/teach/course/conversation-01). Jun 2026.
-- Tatsunori Hashimoto & Percy Liang. *[CS336: Language Model from Scratch](https://cs336.stanford.edu)*. Stanford. Spring 2026.
 
 ## AI "Safety"
 - Ben Recht. [The Banal Evil of AI Safety](https://www.argmin.net/p/the-banal-evil-of-ai-safety). Aug 2025.
