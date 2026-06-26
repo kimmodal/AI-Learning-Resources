@@ -10,8 +10,8 @@ I tried to list them in a suggested reading order.
 ## Table of Contents
 1. AI Engineering Overview
 2. Architectures
-   - Transformers
-   - Further Topics
+  - Transformers
+  - Further Topics
 3. Training
 4. Advanced: Modern Language Model Systems
 5. Agents
