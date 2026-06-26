@@ -12,7 +12,9 @@ I tried to list them in a suggested reading order.
    - [Transformers](#transformers)
    - [Further Topics](#further-topics)
 3. [Training](#training)
-5. [Advanced: Modern Language Model Systems](#advanced-modern-language-model-systems)
+   - [How to Train LMs](#how-to-train-lms)
+   - [Post-training](#post-training)
+5. [Advanced: Modern LM Systems](#advanced-modern-lm-systems)
 6. [Agents](#agents)
    - [What Is an Agent?](#what-is-an-agent)
    - [Agentic Engineering](#agentic-engineering)
@@ -45,7 +47,7 @@ I tried to list them in a suggested reading order.
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
 
 ## Training
-### Overview
+### How to Train LMs
 - Kyongchun Cho. [You Want to Train Language Models Yourself from Scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view). CHIL. 2024.
 - Yann Dubois. [Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf). *CS294/194-196: Agentic AI*. UC Berkeley. Fall 2025.
 - Kylo Lo, Akshita Bagia, & Nathan Lambert. [Language Modeling](https://natolambert.com/slides). NeurIPS. Dec 2024.
@@ -55,7 +57,7 @@ I tried to list them in a suggested reading order.
   - [Frontier Post-Training Recipe Survey](https://rlhfbook.com/teach/course/conversation-01). Jun 2026.
 
 
-## Advanced: Modern Language Model Systems
+## Advanced: Modern LM Systems
 - Tatsunori Hashimoto & Percy Liang. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University. Spring 2026.
 - Alisa Liu. [Alisa's Book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
 
