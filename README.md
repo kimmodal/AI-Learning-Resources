@@ -8,20 +8,20 @@ I tried to list them in a suggested reading order.
 - Add a Korean version.
 
 ## Table of Contents
-[1. AI Engineering Overview](https://github.com/kimmodal/AI-Learning-Resources#ai-engineering-overview)
-[2. Architectures](#architectures)
+1. [AI Engineering Overview](#ai-engineering-overview)
+2. [Architectures](#architectures)
    - [Transformers](#transformers)
    - [Further Topics](#further-topics)
-[3. Training](#training)
-[4. Advanced: Modern Language Model Systems](#advanced-modern-language-model-systems)
-[5. Agents](#agents)
+3. [Training](#training)
+4. [Advanced: Modern Language Model Systems](#advanced-modern-language-model-systems)
+5. [Agents](#agents)
    - [What Is an Agent?](#what-is-an-agent)
    - [Agentic Engineering](#agentic-engineering)
    - [Agent Security](#agent-security)
-[6. AI "Safety"](#ai-safety)
+6. [AI "Safety"](#ai-safety)
    - [Overview](#overview)
    - ["Alignment"](#alignment)
-[7. AI Writing Smells](#ai-writing-smells)
+7. [AI Writing Smells](#ai-writing-smells)
 
 ## AI Engineering Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
