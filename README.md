@@ -8,7 +8,7 @@ I tried to list them in a suggested reading order.
 - Add a Korean version.
 
 ## Table of Contents
-[1. AI Engineering Overview](#ai-engineering-overview)
+[1. AI Engineering Overview](https://github.com/kimmodal/AI-Learning-Resources#ai-engineering-overview)
 [2. Architectures](#architectures)
    - [Transformers](#transformers)
    - [Further Topics](#further-topics)
