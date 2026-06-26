@@ -12,27 +12,27 @@ I tried to list them in a suggested reading order.
    - [Transformers](#transformers)
    - [Further Topics](#further-topics)
 3. [Training](#training)
-4. [Advanced: Modern Language Model Systems](#advanced-modern-language-model-systems)
-5. [Agents](#agents)
+5. [Advanced: Modern Language Model Systems](#advanced-modern-language-model-systems)
+6. [Agents](#agents)
    - [What Is an Agent?](#what-is-an-agent)
    - [Agentic Engineering](#agentic-engineering)
    - [Agent Security](#agent-security)
-6. [AI "Safety"](#ai-safety)
+7. [AI "Safety"](#ai-safety)
    - [Overview](#overview)
    - ["Alignment"](#alignment)
-7. [AI Writing Smells](#ai-writing-smells)
+8. [AI Writing Smells](#ai-writing-smells)
 
 ## AI Engineering Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
 
 ## Architectures
 ### Transformers
-- Jay Alammar & Maarten Grootendorst. Ch 3: Inside Large Language Models. In *Hands-on Large Language Models*. O'Reilly. 2024. 
+- Jay Alammar & Maarten Grootendorst. Ch 3: Inside Large Language Models, in *Hands-on Large Language Models*. O'Reilly. 2024. 
 - 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). Apr 2026.
 - Lucas Beyer. [Transformer Tutorial](https://lucasb.eyer.be/transformer). Sep 2022.
 
 ### Further Topics
-- Jay Alammar & Maarten Grootendorst. Ch 9: Multimodal Large Language Models. In *Hands-on Large Language Models*. O'Reilly. 2024. 
+- Jay Alammar & Maarten Grootendorst. Ch 9: Multimodal Large Language Models, in *Hands-on Large Language Models*. O'Reilly. 2024. 
 - Jay Alammar. [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/). Oct 2022.
 - Maarten Grootendorst. [A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms). Feb 2025.
   - [A Visual Guide to Mixture of Experts](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts). Oct 2024.
@@ -45,11 +45,15 @@ I tried to list them in a suggested reading order.
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
 
 ## Training
+### Overview
 - Kyongchun Cho. [You Want to Train Language Models Yourself from Scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view). CHIL. 2024.
 - Yann Dubois. [Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf). *CS294/194-196: Agentic AI*. UC Berkeley. Fall 2025.
+- Kylo Lo, Akshita Bagia, & Nathan Lambert. [Language Modeling](https://natolambert.com/slides). NeurIPS. Dec 2024.
+
+### Post-training
 - Nathan Lambert. [Building OLMo in the Era of Agents](https://natolambert.com/slides). Feb 2026.
   - [Frontier Post-Training Recipe Survey](https://rlhfbook.com/teach/course/conversation-01). Jun 2026.
-- Kylo Lo, Akshita Bagia, & Nathan Lambert. [Language Modeling](https://natolambert.com/slides). NeurIPS. Dec 2024.
+
 
 ## Advanced: Modern Language Model Systems
 - Tatsunori Hashimoto & Percy Liang. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University. Spring 2026.
