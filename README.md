@@ -9,7 +9,7 @@ I tried to list them in a suggested reading order.
 
 ## Table of Contents
 [1. AI Engineering Overview](#ai-engineering-overview)  
-2. [Architectures](#architectures)
+[2. Architectures](#architectures)  
    - [Transformers](#transformers)
    - [Further Topics](#further-topics)
 3. [Training](#training)
