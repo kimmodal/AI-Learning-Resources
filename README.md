@@ -54,7 +54,7 @@ I tried to list them in a suggested reading order.
 - Nathan Lambert. [The ML Foundations of LLM Post-Training](https://rlhfbook.com/course#prerequisites). Jun 2026.
 
 ### Post-training
-- Nathan Lambert. [Building OLMo in the Era of Agents](https://natolambert.com/slides). Feb 2026.
+- Nathan Lambert. [Building Language Models in the Era of Agents](https://natolambert.com/slides). Feb 2026.
   - [Frontier Post-Training Recipe Survey](https://rlhfbook.com/teach/course/conversation-01). Jun 2026.
 
 
