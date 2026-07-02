@@ -79,7 +79,7 @@ I tried to list them in a suggested reading order.
 ## AI "Safety"
 ### Overview
 - Ben Recht. [The Banal Evil of AI Safety](https://www.argmin.net/p/the-banal-evil-of-ai-safety). Aug 2025.
-- Peter Slattery et al. [Taxonomy of AI Risks](https://github.com/kimmodal/AI-Learning-Resources/blob/main/DomainTaxonomyofAIRisks.md). Adapted from *[AI Risk Repository](https://airisk.mit.edu/risks)*. Mar 2026.
+- Peter Slattery et al. [Taxonomy of AI Risks](https://github.com/kimmodal/AI-Learning-Resources/blob/main/DomainTaxonomyofAIRisks.md). Adapted from *[The AI risk repository: A meta-review, database, and taxonomy of risks from artificial intelligence](https://airisk.mit.edu/risks)*. Mar 2026.
 - Yoshua Bengio et al. *[International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)*. Feb 2026.
 
 ### "Alignment"
