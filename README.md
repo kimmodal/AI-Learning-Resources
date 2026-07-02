@@ -1,5 +1,5 @@
 # AI Learning Resources
-Available in [한국어](https://github.com/kimmodal/AI-Learning-Resources/blob/d58ad091a03009c8df15f24781e762068a89a784/ko/README.md)
+Also available in [한국어](https://github.com/kimmodal/AI-Learning-Resources/blob/d58ad091a03009c8df15f24781e762068a89a784/ko/README.md)
 
 Good AI learning resources I have found useful.<br>
 I tried to list them in a suggested reading order.
