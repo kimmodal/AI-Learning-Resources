@@ -71,7 +71,7 @@ I tried to list them in a suggested reading order.
 
 ### Agent Security
 - Simon Willison. [The Lethal Trifecta for AI Agents: Private data, Untrusted Content, and External Communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/). Jun 2025.
-- 영미권 5개국 정보기관 합동 발간. *[Careful Adoption of Agentic AI Services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)*. May 2026.
+- 영미권 5개국 정보기관 합동. *[Careful Adoption of Agentic AI Services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)*. May 2026.
 - 엔비디아 기술 블로그. [Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk](https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/). Jan 2026.
 - Luis Cardoso. [A Field Guide to Sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai). Jan 2026.
 - 오픈AI. "정렬 문제(Misalignment)"의 유형 ([Types of Misalignment](https://github.com/kimmodal/AI-Learning-Resources/blob/57b4fc6223e2b5ea43ac214e0a2dc1e8bc6e47f5/misalignment.md)). 오픈AI 안전 블로그 [OpenAI가 내부 코딩 에이전트의 정렬 문제를 관찰하고 점검하는 방법](https://openai.com/ko-KR/index/how-we-monitor-internal-coding-agents-misalignment/) 발췌. ([How We Monitor Internal Coding Agents for Misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/)). Mar 2026.
