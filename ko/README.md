@@ -24,11 +24,11 @@ I tried to list them in a suggested reading order.
 8. [AI Writing Smells](#ai-writing-smells)
 
 ## AI Engineering Overview
-- 칩 후옌. *AI 엔지니어링*. (Chip Huyen. *AI Engineering*. O'Reilly). 2024.
+- 칩 후옌. *AI 엔지니어링*. (Chip Huyen. *AI Engineering*). 2024.
 
 ## Architectures
-- 제이 알아마르 & 마르턴 흐루턴도르스트. *핸즈온 LLM*, 3장: 대규모 언어 모델 자세히 살펴보기. (Jay Alammar & Maarten Grootendorst. Ch 3: Inside Large Language Models, in *Hands-on Large Language Models*. O'Reilly). 2024.
-  - 9장: 멀티모달 대규모 언어 모델. (Ch 9: Multimodal Large Language Models)
+- 제이 알아마르 & 마르턴 흐루턴도르스트. *핸즈온 LLM*, 3장: 대규모 언어 모델 자세히 살펴보기. (Jay Alammar & Maarten Grootendorst. *Hands-on Large Language Models*). 2024.
+  - 9장: 멀티모달 대규모 언어 모델
 - 마르턴 흐루턴도르스트. [Reasoning LLMs에 관한 비주얼 가이드](https://tulip-phalange-a1e.notion.site/Reasoning-LLMs-190c32470be2806d834ee0ad98aaa0b6) ([A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/pa-visual-guide-to-reasoning-llms)). Feb 2025.
   - [Mixture of Experts (MoE)에 관한 비주얼 가이드](https://tulip-phalange-a1e.notion.site/Mixture-of-Experts-MoE-11ac32470be28055bcc6cd4a78b26243) ([A Visual Guide to Mixture of Experts](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)). Oct 2024.
   - [양자화에 관한 비주얼 가이드](https://tulip-phalange-a1e.notion.site/a947f0efb8eb4813a533b0d957134f6d) ([A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)). Jul 2024.
