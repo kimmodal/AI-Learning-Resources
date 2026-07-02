@@ -3,7 +3,6 @@ Good AI learning resources I have found useful.<br>
 I tried to list them in a suggested reading order.
 
 **TODO**
-- Add a Korean version.
 - Add brief annotations for each resource.
 
 ## Table of Contents
