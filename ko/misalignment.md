@@ -1,6 +1,6 @@
 # "정렬 문제(Misalignment)"의 유형
 
-OpenAI 안전 블로그 [OpenAI가 내부 코딩 에이전트의 정렬 문제를 관찰하고 점검하는 방법](https://openai.com/ko-KR/index/how-we-monitor-internal-coding-agents-misalignment/) 중에서. 2026년 3월 19일.
+OpenAI 안전 블로그 [OpenAI가 내부 코딩 에이전트의 정렬 문제를 관찰하고 점검하는 방법](https://openai.com/ko-KR/index/how-we-monitor-internal-coding-agents-misalignment/) 중에서. 2026년 3월.
 
 > **빈도/심각도 라벨에 대하여:** "'일반적'은 전체 트래픽의 1% 미만을 의미하며 이러한 맥락에서 이해해야 합니다." "OpenAI는 이 시스템을 운영한 지난 5개월 동안 수천만 건에 달하는 내부 에이전트 코딩 작업을 관찰했으며, 실제 대화 중 심각도가 최고 수준인 사례는 단 한 건도 발생하지 않았습니다."
 
