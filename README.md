@@ -56,7 +56,7 @@ I tried to list them in a suggested reading order.
 - Ben Recht. [Secrets of Intelligence Services](https://www.argmin.net/p/secrets-of-intelligence-services). Feb 2026.
 - Thomas Ptacek. [You Should Write an Agent](https://fly.io/blog/everyone-write-an-agent/). *fly.io blog*. Nov 2025.
    - Grant Bourzikas. [Project Glasswing: What Mythos Showed Us](https://blog.cloudflare.com/cyber-frontier-models/). *The Cloudflare Blog*. May 2026.
-#### (Optional) Mechanics of Agents
+#### (Optional) Mechanics of an Agent
 - Hugging Face. [Agent Course: Unit 1](https://huggingface.co/learn/agents-course/unit1/introduction). Feb 2025.
    - OpenAI. [Function Calling](https://developers.openai.com/api/docs/guides/function-calling). *OpenAI Developer Docs.*
    - Michael Bolin. [Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/). *OpenAI Engineering Blog*. Jan 2026.
