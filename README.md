@@ -10,7 +10,7 @@ I tried to list them in a suggested reading order.
 3. [Training](#training)
    - [How to Train LMs](#how-to-train-lms)
    - [Post-training](#post-training)
-4. [Inference](#inference)
+4. [Inference Optimization](#inference-optimization)
 5. [Advanced: Modern LM Systems](#advanced-modern-lm-systems)
 6. [Agents](#agents)
    - [What Is an Agent?](#what-is-an-agent)
@@ -47,7 +47,7 @@ I tried to list them in a suggested reading order.
 - Nathan Lambert. [Building Language Models in the Era of Agents](https://natolambert.com/slides). Feb 2026.
   - [Frontier Post-Training Recipe Survey](https://rlhfbook.com/teach/course/conversation-01). Jun 2026.
 
-## Inference
+## Inference Optimization
 
 ## Advanced: Modern LM Systems
 - Percy Liang & Tatsunori Hashimoto. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University. Spring 2026.
