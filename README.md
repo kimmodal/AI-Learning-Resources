@@ -61,6 +61,7 @@ i tried to list them in a suggested reading order.
 ## Training
 ### How to Train LMs
 - Kyongchun Cho. [You Want to Train Language Models Yourself from Scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view). CHIL. 2024.
+  > we need way more transparency in every aspect of ai including data, pre-training, post-training, safeguards, etc. 
 - Yann Dubois. [Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf). *CS294/194-196: Agentic AI*. UC Berkeley. Fall 2025.
   > could be a bit difficult if you are new to training llms. but its a great summary/overview of the entire process. 
 - Nathan Lambert. [The ML Foundations of LLM Post-Training](https://rlhfbook.com/course#prerequisites). Jun 2026.
