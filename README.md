@@ -87,7 +87,7 @@ i tried to list them in a suggested reading order.
 - Thomas Ptacek. [You Should Write an Agent](https://fly.io/blog/everyone-write-an-agent/). *fly.io blog*. Nov 2025.
   > shows the "magic" of agents
 - Grant Bourzikas. [Project Glasswing: What Mythos Showed Us](https://blog.cloudflare.com/cyber-frontier-models/). *The Cloudflare Blog*. May 2026.
-  > it's not a mistake to have it in this section instead of agent security. 
+  > it's not a mistake to have it in this section instead of [agent security](#agent-security) section
 
 #### Optional: Mechanics of an Agent
 - Hugging Face. [Agent Course: Unit 1](https://huggingface.co/learn/agents-course/unit1/introduction). Feb 2025.
