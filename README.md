@@ -30,7 +30,7 @@ ai learning resources i have found useful. roughly in suggested reading order.
 
 ## AI Engineering Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. Dec 2024.
-  > a very good overview of the whole ai engineering stack. it covers: the basics of llm systems, evaluation, data, rag, finetuning, agents, inference optimization, prompt engineering. 
+  > a very good overview of the whole ai engineering stack. it covers: the basics of llm systems, evaluation, data, rag, finetuning, agents, inference optimization, prompt engineering
 
 ## Architectures
 ### Transformers
@@ -60,9 +60,9 @@ ai learning resources i have found useful. roughly in suggested reading order.
 ## Training
 ### How to Train LMs
 - Kyongchun Cho. [You Want to Train Language Models Yourself from Scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view). CHIL. 2024.
-  > we need way more transparency in every aspect of ai including data, pre-training, post-training, safeguards, etc. 
+  > we need way more transparency across every part of ai systems including data, pre-training, post-training, safeguards, deployment, monitoring, versioning, and everything between 
 - Yann Dubois. [Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf). *CS294/194-196: Agentic AI*. UC Berkeley. Fall 2025.
-  > might be a bit difficult if you are new to training llms. but it's a good summary/overview of the entire process. 
+  > might be a bit difficult if you are new to training llms. but it's a good summary/overview of the entire process
 - Nathan Lambert. [The ML Foundations of LLM Post-Training](https://rlhfbook.com/course#prerequisites). Jun 2026.
   > includes a bit of math; assumes basic knowledge of ml, probability, and linear algebra
 - Kylo Lo, Akshita Bagia, & Nathan Lambert. [Language Modeling](https://natolambert.com/slides). NeurIPS. Dec 2024.
@@ -78,7 +78,7 @@ ai learning resources i have found useful. roughly in suggested reading order.
 - Afshine Amidi & Shervine Amidi. *[CME295: Transformer & Large Language Models](https://cme295.stanford.edu)*. Stanford University. Fall 2025.
   > assumes basic knowledge of ml, probability, and linear algebra
 - Percy Liang & Tatsunori Hashimoto. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University. Spring 2026.
-  > assumes basic knowledge of ml, probability, and linear algebra + transformers/llms. the assignments take a lot of work, but it’s still highly worthwhile even if you only read through the course materials.
+  > assumes basic knowledge of ml, probability, and linear algebra + transformers/llms. the assignments take a lot of work, but it’s still highly worthwhile even if you only read through the course materials
 - Alisa Liu. [Alisa's Book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
   > a good cs336-level summary
 
@@ -117,7 +117,7 @@ ai learning resources i have found useful. roughly in suggested reading order.
   - David Dworken & Oliver Weller-Davie. [Beyond permission prompts: making Claude Code more secure and autonomous](https://www.anthropic.com/engineering/claude-code-sandboxing). *Engineering at Anthropic*. Oct 2025.
     > "It is worth noting that **effective sandboxing requires both filesystem and network isolation**. Without network isolation, a compromised agent could exfiltrate sensitive files like SSH keys; without filesystem isolation, a compromised agent could easily escape the sandbox and gain network access. It’s by using both techniques that we can provide a safer and faster agentic experience for Claude Code users."
   - Luis Cardoso. [A Field Guide to Sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai). Jan 2026.
-    > a thorough introduction to containers, gvisor, microvms, and wasm/isolates.<br>
+    > a thorough introduction to containers, gvisor, microvms, and wasm/isolates<br>
     > > "containers are not a sufficient security boundary for hostile code. They can be hardened, and that matters. But they still share the host kernel. The failure modes I see most often are misconfiguration and kernel/runtime bugs — plus a third one that shows up in AI systems: policy leakage."
   - [Sandboxing Agents with AI Workbench](https://docs.nvidia.com/ai-workbench/user-guide/latest/concepts/sandboxing-concept.html). *NVIDIA AI Workbench User Guide*
     > "What Sandboxing Does Not Cover
