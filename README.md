@@ -110,6 +110,7 @@ tried to list them in a suggested reading order.
 - ACSC, CISA, NSA, Cyber Center, NCSC NZ, & NCSC UK. *[Careful Adoption of Agentic AI Services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)*. May 2026.
   > should be a required reading for anyone who implements ai agents to their systems
 - Rich Harang. [Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk](https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/). *Nvidia Technical Blog*. Jan 2026.
+  > also should be a required reading for anyone who implements ai agents to their systems
   - David Dworken & Oliver Weller-Davie. [Beyond permission prompts: making Claude Code more secure and autonomous](https://www.anthropic.com/engineering/claude-code-sandboxing). *Engineering at Anthropic*. Oct 2025.
     > "It is worth noting that **effective sandboxing requires both filesystem and network isolation**. Without network isolation, a compromised agent could exfiltrate sensitive files like SSH keys; without filesystem isolation, a compromised agent could easily escape the sandbox and gain network access. It’s by using both techniques that we can provide a safer and faster agentic experience for Claude Code users."
   - Luis Cardoso. [A Field Guide to Sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai). Jan 2026.
