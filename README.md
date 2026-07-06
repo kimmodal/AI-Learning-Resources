@@ -41,7 +41,7 @@ tried to list them in a suggested reading order.
 - 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). June 2026.
   > a bit more about transformers such as residual connection and layer norm
 - Lucas Bayer. [Transformer Tutorial](lucasb.eyer.be/transformer). Sep 2022.
-  > a bit more mathematical than 
+  > a bit more mathematical 
 - Devi's blog. [Beyond the Curve: A Holistic Guide to Activation Functions (From Sigmoid to SwiGLU)](https://ai.plainenglish.io/beyond-the-curve-a-holistic-guide-to-activation-functions-from-sigmoid-to-swiglu-3e96faaa7a84). *Artificial Intelligence in Plain English*. Jan 2026.
 
 ### LLMs
