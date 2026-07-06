@@ -109,12 +109,18 @@ tried to list them in a suggested reading order.
 - Simon Willison. [The Lethal Trifecta for AI Agents: Private data, Untrusted Content, and External Communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/). Jun 2025.
 - ACSC, CISA, NSA, Cyber Center, NCSC NZ, & NCSC UK. *[Careful Adoption of Agentic AI Services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)*. May 2026.
   > should be a required reading for anyone who implements ai agents to their systems
-- Rich Harang. [Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk](https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/). *Nvidia Technical Blog*. Jan 2026.
-  > also should be a required reading for anyone who implements ai agents to their systems
+- Rich Harang. [Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk](https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/). *NVIDIA Technical Blog*. Jan 2026.
+  > should be a required reading for anyone who implements ai agents to their systems too
   - David Dworken & Oliver Weller-Davie. [Beyond permission prompts: making Claude Code more secure and autonomous](https://www.anthropic.com/engineering/claude-code-sandboxing). *Engineering at Anthropic*. Oct 2025.
     > "It is worth noting that **effective sandboxing requires both filesystem and network isolation**. Without network isolation, a compromised agent could exfiltrate sensitive files like SSH keys; without filesystem isolation, a compromised agent could easily escape the sandbox and gain network access. It’s by using both techniques that we can provide a safer and faster agentic experience for Claude Code users."
   - Luis Cardoso. [A Field Guide to Sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai). Jan 2026.
-    > "containers are not a sufficient security boundary for hostile code. They can be hardened, and that matters. But they still share the host kernel. The failure modes I see most often are misconfiguration and kernel/runtime bugs — plus a third one that shows up in AI systems: policy leakage."
+    > a thorough introduction to container, gvisor, microvm, and wasm/isolate.
+    "containers are not a sufficient security boundary for hostile code. They can be hardened, and that matters. But they still share the host kernel. The failure modes I see most often are misconfiguration and kernel/runtime bugs — plus a third one that shows up in AI systems: policy leakage."
+  - [Sandboxing Agents with AI Workbench](https://docs.nvidia.com/ai-workbench/user-guide/latest/concepts/sandboxing-concept.html). *NVIDIA AI Workbench User Guide*
+    > What Sandboxing Does Not Cover
+    - Process sandboxes in containers do not isolate environment variables.
+    - Some agent sandboxes fail silently in containers.
+    - **Agent guidance does not actually enforce anything, so make sure to use permissions and hooks.**
 - Marcus Williamson et al. [Types of Misalignment](misalignment.md). Adapted from [How We Monitor Internal Coding Agents for Misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). *OpenAI Safety Blog*. May 2026.
   > how agents don't work as intended
 
