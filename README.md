@@ -114,7 +114,7 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
 
 ### Agent Security
 - Simon Willison. [The Lethal Trifecta for AI Agents: Private data, Untrusted Content, and External Communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/). Jun 2025.
-  > as willison himself says, "lethal trifecta" is a catchy phrase. and it's a good framework
+  > as Willison himself says, "lethal trifecta" is a catchy phrase. and it's a good framework
 - ACSC, CISA, NSA, Cyber Center, NCSC NZ, & NCSC UK. *[Careful Adoption of Agentic AI Services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)*. May 2026.
   > should be required reading for anyone implementing ai agents in real systems
 - Rich Harang. [Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk](https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/). *NVIDIA Technical Blog*. Jan 2026.
