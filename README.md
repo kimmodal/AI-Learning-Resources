@@ -1,13 +1,13 @@
 # AI Learning Resources
-Also available in [한국어](https://github.com/kimmodal/AI-Learning-Resources/blob/d58ad091a03009c8df15f24781e762068a89a784/ko/README.md) / Last updated: July 6, 2026
+also available in [한국어](https://github.com/kimmodal/AI-Learning-Resources/blob/d58ad091a03009c8df15f24781e762068a89a784/ko/README.md) / last updated: July 6, 2026
 
-Good AI learning resources I have found useful.
-tried to list them in a suggested reading order.
+good ai learning resources i have found useful.
+i tried to list them in a suggested reading order.
 
 #### TODO
 - add annotations
 - add materials on: inference optimization, agentic engineering, cognitive/societal effects of AI, trustworthy AI, etc.
-- needs to fill the gap between cme295 and cs366
+- need to fill the gap between cme295 and cs366
 
 ## Table of Contents
 1. [AI Engineering Overview](#ai-engineering-overview)  
@@ -31,7 +31,7 @@ tried to list them in a suggested reading order.
 
 ## AI Engineering Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. Dec 2024.
-  > a very good overview on everything ai engineering. covers: basics of llm systems, evaluation, data, rag, finetuning, agents, inference optimization, agents, prompt engineering. 
+  > a very good overview of everything ai engineering. covers: basics of llm systems, evaluation, data, rag, finetuning, agents, inference optimization, agents, prompt engineering. 
 
 ## Architectures
 ### Transformers
@@ -40,7 +40,7 @@ tried to list them in a suggested reading order.
 
 #### Optional: More on Transformers
 - 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). June 2026.
-  > a bit more about transformers such as residual connection and layer norm
+  > a bit more about transformers such as residual connections and layer norm
 - Lucas Bayer. [Transformer Tutorial](lucasb.eyer.be/transformer). Sep 2022.
   > a bit more mathematical 
 - Devi's blog. [Beyond the Curve: A Holistic Guide to Activation Functions (From Sigmoid to SwiGLU)](https://ai.plainenglish.io/beyond-the-curve-a-holistic-guide-to-activation-functions-from-sigmoid-to-swiglu-3e96faaa7a84). *Artificial Intelligence in Plain English*. Jan 2026.
@@ -53,7 +53,7 @@ tried to list them in a suggested reading order.
     - Sam Rose. [Quantization from the Ground Up](https://ngrok.com/blog/quantization). *ngrok blog*. Mar 2026.
       > read this before the article above
   - [A Visual Guide to Gemma 4](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-gemma-4). Apr 2026.
-    > incorporates everything so far: multimodality, mixture of exports, gqa, speculative decoding + mtp, etc.
+    > incorporates everything so far: multimodality, mixture of experts, gqa, speculative decoding + mtp, etc.
   - [A Visual Guide to DiffusionGemma](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-diffusiongemma). Jun 2026.
     > also a good intro to diffusion
   - [A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state). Feb 2024.
@@ -62,7 +62,7 @@ tried to list them in a suggested reading order.
 ### How to Train LMs
 - Kyongchun Cho. [You Want to Train Language Models Yourself from Scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view). CHIL. 2024.
 - Yann Dubois. [Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf). *CS294/194-196: Agentic AI*. UC Berkeley. Fall 2025.
-  > could be a bit difficult if you are new to training llms. but a great summary/overview of the entire process. 
+  > could be a bit difficult if you are new to training llms. but its a great summary/overview of the entire process. 
 - Nathan Lambert. [The ML Foundations of LLM Post-Training](https://rlhfbook.com/course#prerequisites). Jun 2026.
 - Kylo Lo, Akshita Bagia, & Nathan Lambert. [Language Modeling](https://natolambert.com/slides). NeurIPS. Dec 2024.
 
@@ -87,7 +87,7 @@ tried to list them in a suggested reading order.
 - Thomas Ptacek. [You Should Write an Agent](https://fly.io/blog/everyone-write-an-agent/). *fly.io blog*. Nov 2025.
   > shows the "magic" of agents
 - Grant Bourzikas. [Project Glasswing: What Mythos Showed Us](https://blog.cloudflare.com/cyber-frontier-models/). *The Cloudflare Blog*. May 2026.
-  > it's not a mistake to have it on this section instead of agent security. 
+  > it's not a mistake to have it in this section instead of agent security. 
 
 #### Optional: Mechanics of an Agent
 - Hugging Face. [Agent Course: Unit 1](https://huggingface.co/learn/agents-course/unit1/introduction). Feb 2025.
@@ -108,13 +108,13 @@ tried to list them in a suggested reading order.
 ### Agent Security
 - Simon Willison. [The Lethal Trifecta for AI Agents: Private data, Untrusted Content, and External Communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/). Jun 2025.
 - ACSC, CISA, NSA, Cyber Center, NCSC NZ, & NCSC UK. *[Careful Adoption of Agentic AI Services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)*. May 2026.
-  > should be a required reading for anyone who implements ai agents to their systems
+  > should be a required reading for anyone who implements ai agents in their systems
 - Rich Harang. [Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk](https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/). *NVIDIA Technical Blog*. Jan 2026.
-  > should be a required reading for anyone who implements ai agents to their systems too
+  > should be a required reading for anyone who implements ai agents in their systems 
   - David Dworken & Oliver Weller-Davie. [Beyond permission prompts: making Claude Code more secure and autonomous](https://www.anthropic.com/engineering/claude-code-sandboxing). *Engineering at Anthropic*. Oct 2025.
     > "It is worth noting that **effective sandboxing requires both filesystem and network isolation**. Without network isolation, a compromised agent could exfiltrate sensitive files like SSH keys; without filesystem isolation, a compromised agent could easily escape the sandbox and gain network access. It’s by using both techniques that we can provide a safer and faster agentic experience for Claude Code users."
   - Luis Cardoso. [A Field Guide to Sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai). Jan 2026.
-    > a thorough introduction to container, gvisor, microvm, and wasm/isolate.<br>
+    > a thorough introduction to containers, gvisors, microvms, and wasm/isolates.<br>
     > > "containers are not a sufficient security boundary for hostile code. They can be hardened, and that matters. But they still share the host kernel. The failure modes I see most often are misconfiguration and kernel/runtime bugs — plus a third one that shows up in AI systems: policy leakage."
   - [Sandboxing Agents with AI Workbench](https://docs.nvidia.com/ai-workbench/user-guide/latest/concepts/sandboxing-concept.html). *NVIDIA AI Workbench User Guide*
     > What Sandboxing Does Not Cover
