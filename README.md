@@ -29,7 +29,7 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
 
 ## AI Engineering Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. Dec 2024.
-  > 칩 후옌. *AI 엔지니어링*. 한빛미디어 <br>
+  > 칩 후옌. *AI 엔지니어링*. 한빛미디어.<br>
   > a very good overview of the full AI engineering stack. If you read only one thing from this list, make it this. it covers the basics of llm systems, evaluation, data, rag, finetuning, agents, inference optimization, prompt engineering, and more. 
 
 ## Architectures
