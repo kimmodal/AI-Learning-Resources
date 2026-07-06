@@ -36,7 +36,7 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
 ### Transformers
 - Jay Alammar & Maarten Grootendorst. Ch 3: Inside Large Language Models, in *Hands-on Large Language Models*. O'Reilly. Sep 2024. 
   > 제이 알아마르 & 마르턴 흐루턴도르스트. *핸즈온 LLM*. 3장: 대규모 언어 모델 자세히 살펴보기. 한빛미디어.<br>
-  > based on Jay Alammar's [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (2017),  but better and more comprehensive. 
+  > based on Alammar's [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (2017), but better and more comprehensive. 
 
 #### Optional: More on Transformers
 - 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). June 2026.
