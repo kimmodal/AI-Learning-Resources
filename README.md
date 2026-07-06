@@ -52,7 +52,7 @@ tried to list them in a suggested reading order.
     - Sam Rose. [Quantization from the Ground Up](https://ngrok.com/blog/quantization). *ngrok blog*. Mar 2026.
       > read this before the article above
   - [A Visual Guide to Gemma 4](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-gemma-4). Apr 2026.
-    > incorporates everything so far: Multimodality, MoE, GQA, Speculative Decoding + MTP, etc.
+    > incorporates everything so far: multimodality, mixture of exports, gqa, speculative decoding + mtp, etc.
   - [A Visual Guide to DiffusionGemma](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-diffusiongemma). Jun 2026.
     > also a good intro to Diffusion   
   - [A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state). Feb 2024.
