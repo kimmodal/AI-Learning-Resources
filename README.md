@@ -133,6 +133,7 @@ ai learning resources i have found useful. roughly in suggested reading order.
 - Ben Recht. [The Banal Evil of AI Safety](https://www.argmin.net/p/the-banal-evil-of-ai-safety). Aug 2025.
   > every ai "safety" researcher should read this article
 - Peter Slattery et al. [Taxonomy of AI Risks](DomainTaxonomyofAIRisks.md). Adapted from [The AI risk repository: A meta-review, database, and taxonomy of risks from artificial intelligence](https://airisk.mit.edu/risks). Mar 2026.
+  > a good framework
 - Yoshua Bengio et al. *[International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)*. Feb 2026.
   > a good reference
 
