@@ -138,7 +138,7 @@ ai learning resources i have found useful. roughly in suggested reading order.
 ### "Alignment"
 - Séb Krier. [Scary Model Cards and the Discourse Shifting](https://x.com/sebkrier/status/2020561261751062664). Feb 2026.
   > "many public readings of some evaluations implicitly treat chat outputs as direct evidence of properties inherent to models, while LLM behavior is often strongly role- and context-conditioned. As a result commentators sometimes miss what the model is actually doing (simulating a role given textual context), design tests that are highly stylized (because they don't bother to make the scenarios psychologically plausible to the model), and interpret the results through a framework (goal-directed rational agency) that doesn't match the underlying mechanism (text prediction via theory-of-mind-like inference). <br>
-  1. The model is completing a text, not answering a question 
+>  1. The model is completing a text, not answering a question 
   2. The assistant persona is a fictional character, not the model itself 
   3. Apparent errors are often correct completions of the world implied by the prompt
   4. “Evaluation awareness” isn't mystical: the model can recognize contrivance because it’s a strong reader
