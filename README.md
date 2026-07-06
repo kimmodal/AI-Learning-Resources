@@ -29,11 +29,12 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
 
 ## AI Engineering Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. Dec 2024.
+  > 칩 후옌. *AI 엔지니어링*.
   > a very good overview of the full AI engineering stack. If you read only one thing from this list, make it this. it covers the basics of llm systems, evaluation, data, rag, finetuning, agents, inference optimization, prompt engineering, and more. 
 
 ## Architectures
 ### Transformers
-- Jay Alammar & Maarten Grootendorst. Ch 3: Inside Large Language Models, in *Hands-on Large Language Models*. O'Reilly. Sep 2024.
+- Jay Alammar & Maarten Grootendorst. Ch 3: Inside Large Language Models, in *Hands-on Large Language Models*. O'Reilly. Sep 2024. 
   > based on Jay Alammar's [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (2017),  but better and more comprehensive. 
 
 #### Optional: More on Transformers
