@@ -91,6 +91,7 @@ ai learning resources i have found useful. roughly in suggested reading order.
   > it’s intentional that this is in this section rather than the [agent security](#agent-security) section
 
 #### Optional: Mechanics of an Agent
+> for a detailed look at how agents actually work
 - Hugging Face. [Agent Course: Unit 1](https://huggingface.co/learn/agents-course/unit1/introduction). Feb 2025.
 - OpenAI. [Function Calling](https://developers.openai.com/api/docs/guides/function-calling). *OpenAI Developer Docs.*
 - Michael Bolin. [Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/). *OpenAI Engineering Blog*. Jan 2026.
