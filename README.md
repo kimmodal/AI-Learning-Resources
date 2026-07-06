@@ -40,7 +40,7 @@ ai learning resources i have found useful. roughly in suggested reading order.
 - 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). June 2026.
   > a bit more on transformers, including residual connections and layer norm
 - Lucas Bayer. [Transformer Tutorial](lucasb.eyer.be/transformer). Sep 2022.
-  > includes a bit of math; assumes basic knowledge of probability and linear algebra
+  > includes a tiny bit of math; assumes basic knowledge of probability and linear algebra
 - Devi's blog. [Beyond the Curve: A Holistic Guide to Activation Functions (From Sigmoid to SwiGLU)](https://ai.plainenglish.io/beyond-the-curve-a-holistic-guide-to-activation-functions-from-sigmoid-to-swiglu-3e96faaa7a84). Jan 2026.
 
 ### LLMs
