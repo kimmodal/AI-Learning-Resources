@@ -6,7 +6,8 @@ tried to list them in a suggested reading order.
 
 #### TODO
 - add annotations
-- add materials on: inference optimization, agentic engineering, cognitive/societal effects of AI, trustworthy AI, etc. 
+- add materials on: inference optimization, agentic engineering, cognitive/societal effects of AI, trustworthy AI, etc.
+- needs to fill the gap between cme295 and cs366
 
 ## Table of Contents
 1. [AI Engineering Overview](#ai-engineering-overview)  
