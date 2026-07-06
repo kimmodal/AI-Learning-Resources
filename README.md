@@ -154,7 +154,7 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
   > "1. Many of the claims hinge on anecdotal evidence  
   > 2. Studies often lack hypotheses and control conditions  
   > 3. Studies have weak or unclear theoretical motivation  
-  > 4. Findings are often interpreted in exaggerated or unwarranted ways
+  > 4. Findings are often interpreted in exaggerated or unwarranted ways"
 
 ## AI Writing Smells
 - Sam Kriss. [Why Does A.I. Write Like … That?](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html). *The New York Times*. Dec 2025.
