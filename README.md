@@ -121,7 +121,7 @@ tried to list them in a suggested reading order.
     > - Process sandboxes in containers do not isolate environment variables.
     > - Some agent sandboxes fail silently in containers.
     > - **Agent guidance does not actually enforce anything, so make sure to use permissions and hooks.** <br>
-    >   MDC rules, skills, and CLAUDE.md files inform the agent about constraints and conventions, but the agent can ignore them.
+    >   MDC rules, skills, and CLAUDE.md files inform the agent about constraints and conventions, but **the agent can ignore them.**
 - Marcus Williamson et al. [Types of Misalignment](misalignment.md). Adapted from [How We Monitor Internal Coding Agents for Misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). *OpenAI Safety Blog*. May 2026.
   > how agents don't work as intended
 
