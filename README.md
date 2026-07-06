@@ -29,12 +29,13 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
 
 ## AI Engineering Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. Dec 2024.
-  > 칩 후옌. *AI 엔지니어링*.
+  > 칩 후옌. *AI 엔지니어링*. 한빛미디어 <br>
   > a very good overview of the full AI engineering stack. If you read only one thing from this list, make it this. it covers the basics of llm systems, evaluation, data, rag, finetuning, agents, inference optimization, prompt engineering, and more. 
 
 ## Architectures
 ### Transformers
 - Jay Alammar & Maarten Grootendorst. Ch 3: Inside Large Language Models, in *Hands-on Large Language Models*. O'Reilly. Sep 2024. 
+  > 제이 알아마르 & 마르턴 흐루턴도르스트. *핸즈온 LLM*. 3장: 대규모 언어 모델 자세히 살펴보기. 한빛미디어.<br>
   > based on Jay Alammar's [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (2017),  but better and more comprehensive. 
 
 #### Optional: More on Transformers
@@ -45,7 +46,8 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
 - Devi's blog. [Beyond the Curve: A Holistic Guide to Activation Functions (From Sigmoid to SwiGLU)](https://ai.plainenglish.io/beyond-the-curve-a-holistic-guide-to-activation-functions-from-sigmoid-to-swiglu-3e96faaa7a84). Jan 2026.
 
 ### LLMs
-- Jay Alammar & Maarten Grootendorst. Ch 9: Multimodal Large Language Models, in *Hands-on Large Language Models*. O'Reilly. Sep 2024. 
+- Jay Alammar & Maarten Grootendorst. Ch 9: Multimodal Large Language Models, in *Hands-on Large Language Models*. O'Reilly. Sep 2024.
+  > 제이 알아마르 & 마르턴 흐루턴도르스트. *핸즈온 LLM*. 9장: 멀티모달 대규모 언어 모델. 한빛미디어.<br>
 - Maarten Grootendorst. [A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms). Feb 2025.
   - [A Visual Guide to Mixture of Experts](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts). Oct 2024.
   - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization). Jul 2024.
