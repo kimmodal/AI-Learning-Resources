@@ -6,7 +6,7 @@ Last updated: July 6, 2026
 Good AI learning resources I have found useful.
 I tried to list them in a suggested reading order.
 
-TODO
+#### TODO
 - add annotations
 - add materials on: inference optimization, agentic engineering, cognitive/societal effects of AI, trustworthy AI, etc. 
 
