@@ -1,37 +1,53 @@
 # AI Learning Resources
 Also available in [한국어](https://github.com/kimmodal/AI-Learning-Resources/blob/d58ad091a03009c8df15f24781e762068a89a784/ko/README.md)
 
-Good AI learning resources I have found useful.<br>
+Last updated: July 6, 2026
+Good AI learning resources I have found useful.
 I tried to list them in a suggested reading order.
+
+TODO
+- add annotations
+- add materials on: inference optimization, agentic engineering, cognitive/societal effects of AI, trustworthy AI, etc. 
 
 ## Table of Contents
 1. [AI Engineering Overview](#ai-engineering-overview)  
-2. [Architectures](#architectures)  
+2. [Architectures](#architectures)
+   - [Transformers](#transformers)
+   - [More Architectures](#more-architectures)
 3. [Training](#training)
    - [How to Train LMs](#how-to-train-lms)
    - [Post-training](#post-training)
 4. [Inference Optimization](#inference-optimization)
-5. [Advanced: Modern LM Systems](#advanced-modern-lm-systems)
-6. [Agents](#agents)
+5. [Agents](#agents)
    - [What Is an Agent?](#what-is-an-agent)
    - [Agentic Engineering](#agentic-engineering)
    - [Agent Security](#agent-security)
+6. [Optional/Advanced: Modern LM Systems](#advanced-modern-lm-systems)
 7. [AI "Safety"](#ai-safety)
    - [Overview](#overview)
    - ["Alignment"](#alignment)
 8. [AI Writing Smells](#ai-writing-smells)
+
 
 ## AI Engineering Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
 
 ## Architectures
 ### Transformers
-- Jay Alammar & Maarten Grootendorst. Ch 3: Inside Large Language Models, in *Hands-on Large Language Models*. O'Reilly. 2024. 
-   - Ch 9: Multimodal Large Language Models. 2024. 
+- Jay Alammar & Maarten Grootendorst. Ch 3: Inside Large Language Models, in *Hands-on Large Language Models*. O'Reilly. 2024.
+
+#### Optional: More on Transformers
+- 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). June 2026.
+- Lucas Bayer. [Transformer Tutorial](lucasb.eyer.be/transformer). Sep 2022.
+- Devi's blog. [Beyond the Curve: A Holistic Guide to Activation Functions (From Sigmoid to SwiGLU)](https://ai.plainenglish.io/beyond-the-curve-a-holistic-guide-to-activation-functions-from-sigmoid-to-swiglu-3e96faaa7a84). *Artificial Intelligence in Plain English*. Jan 2026.
+
+### More Architectures
+- Jay Alammar & Maarten Grootendorst. Ch 9: Multimodal Large Language Models, in *Hands-on Large Language Models*. O'Reilly. 2024. 
 - Maarten Grootendorst. [A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms). Feb 2025.
   - [A Visual Guide to Mixture of Experts](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts). Oct 2024.
   - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization). Jul 2024.
     - Sam Rose. [Quantization from the Ground Up](https://ngrok.com/blog/quantization). *ngrok blog*. Mar 2026. (read this before the article above)
+  - [A Visual Guide to Gemma 4](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-gemma-4). Apr 2026. 
   - [A Visual Guide to DiffusionGemma](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-diffusiongemma). Jun 2026.   
   - [A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state). Feb 2024.
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
@@ -48,10 +64,6 @@ I tried to list them in a suggested reading order.
   - [Frontier Post-Training Recipe Survey](https://rlhfbook.com/teach/course/conversation-01). Jun 2026.
 
 ## Inference Optimization
-
-## Advanced: Modern LM Systems
-- Percy Liang & Tatsunori Hashimoto. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University. Spring 2026.
-- Alisa Liu. [Alisa's Book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
 
 ## Agents
 ### What Is an Agent?
@@ -78,6 +90,10 @@ I tried to list them in a suggested reading order.
   - David Dworken & Oliver Weller-Davie. [Beyond permission prompts: making Claude Code more secure and autonomous](https://www.anthropic.com/engineering/claude-code-sandboxing). *Engineering at Anthropic*. Oct 2025.
   - Luis Cardoso. [A Field Guide to Sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai). Jan 2026.
 - Marcus Williamson et al. [Types of Misalignment](misalignment.md). Adapted from [How We Monitor Internal Coding Agents for Misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). *OpenAI Safety Blog*. May 2026.
+
+## Optional/Advanced: Modern LM Systems
+- Percy Liang & Tatsunori Hashimoto. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University. Spring 2026.
+- Alisa Liu. [Alisa's Book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
 
 ## AI "Safety"
 ### Overview
