@@ -108,7 +108,7 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
 
 ### Agentic Engineering
 - Mario Zechner. [Prompts Are Code, .json/.md Files Are State](https://mariozechner.at/posts/2025-06-02-prompts-are-code/). Jun 2025.
-  > the creator of pi was early to the current "loop engineering" trend
+  > the creator of Pi was early to the current "loop engineering" trend
 - Nader Dabit. [You Could've Invented OpenClaw](https://gist.github.com/dabit3/bc60d3bea0b02927995cd9bf53c3db32). Feb 2026.
   > explains how openclaw works
 
