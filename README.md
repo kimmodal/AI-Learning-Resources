@@ -120,11 +120,11 @@ ai learning resources i have found useful. roughly in suggested reading order.
     > a thorough introduction to containers, gvisor, microvms, and wasm/isolates.<br>
     > > "containers are not a sufficient security boundary for hostile code. They can be hardened, and that matters. But they still share the host kernel. The failure modes I see most often are misconfiguration and kernel/runtime bugs — plus a third one that shows up in AI systems: policy leakage."
   - [Sandboxing Agents with AI Workbench](https://docs.nvidia.com/ai-workbench/user-guide/latest/concepts/sandboxing-concept.html). *NVIDIA AI Workbench User Guide*
-    > What Sandboxing Does Not Cover
+    > "What Sandboxing Does Not Cover
     > - Process sandboxes in containers do not isolate environment variables.
     > - Some agent sandboxes fail silently in containers.
     > - **Agent guidance does not actually enforce anything, so make sure to use permissions and hooks.** <br>
-    >   MDC rules, skills, and CLAUDE.md files inform the agent about constraints and conventions, but **the agent can ignore them.**
+    >   MDC rules, skills, and CLAUDE.md files inform the agent about constraints and conventions, but **the agent can ignore them.**"
 - Marcus Williamson et al. [Types of Misalignment](misalignment.md). Adapted from [How We Monitor Internal Coding Agents for Misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). *OpenAI Safety Blog*. May 2026.
   > how agents can fail to work as intended
 
