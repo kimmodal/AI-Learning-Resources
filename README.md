@@ -1,13 +1,12 @@
 # AI Learning Resources
 also available in [한국어](https://github.com/kimmodal/AI-Learning-Resources/blob/d58ad091a03009c8df15f24781e762068a89a784/ko/README.md) / last updated: July 6, 2026
 
-good ai learning resources i have found useful.
-i tried to list them in a suggested reading order.
+ai learning resources i have found useful. roughly in suggested reading order. 
 
 #### TODO
 - add annotations
-- add materials on: inference optimization, agentic engineering, cognitive/societal effects of AI, trustworthy AI, etc.
-- need to fill the gap between cme295 and cs366
+- add resources on: inference optimization, agentic engineering, cognitive/societal effects of AI, trustworthy AI, etc.
+- add intermediate courses between cme295 and cs336
 
 ## Table of Contents
 1. [AI Engineering Overview](#ai-engineering-overview)  
@@ -31,7 +30,7 @@ i tried to list them in a suggested reading order.
 
 ## AI Engineering Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. Dec 2024.
-  > a very good overview of everything ai engineering. covers: basics of llm systems, evaluation, data, rag, finetuning, agents, inference optimization, agents, prompt engineering. 
+  > a very good overview of the whole ai engineering stack. it covers: the basics of llm systems, evaluation, data, rag, finetuning, agents, inference optimization, prompt engineering. 
 
 ## Architectures
 ### Transformers
@@ -40,9 +39,9 @@ i tried to list them in a suggested reading order.
 
 #### Optional: More on Transformers
 - 0xkato. [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/). June 2026.
-  > a bit more about transformers such as residual connections and layer norm
+  > a bit more on transformers, including residual connections and layer norm
 - Lucas Bayer. [Transformer Tutorial](lucasb.eyer.be/transformer). Sep 2022.
-  > a bit more math; assumes a basic knowledge of probability and linear algebra
+  > includes a bit of math; assumes basic knowledge of probability and linear algebra
 - Devi's blog. [Beyond the Curve: A Holistic Guide to Activation Functions (From Sigmoid to SwiGLU)](https://ai.plainenglish.io/beyond-the-curve-a-holistic-guide-to-activation-functions-from-sigmoid-to-swiglu-3e96faaa7a84). *Artificial Intelligence in Plain English*. Jan 2026.
 
 ### LLMs
@@ -63,9 +62,9 @@ i tried to list them in a suggested reading order.
 - Kyongchun Cho. [You Want to Train Language Models Yourself from Scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view). CHIL. 2024.
   > we need way more transparency in every aspect of ai including data, pre-training, post-training, safeguards, etc. 
 - Yann Dubois. [Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf). *CS294/194-196: Agentic AI*. UC Berkeley. Fall 2025.
-  > could be a bit difficult if you are new to training llms. but its a great summary/overview of the entire process. 
+  > might be a bit difficult if you are new to training llms. but it's a good summary/overview of the entire process. 
 - Nathan Lambert. [The ML Foundations of LLM Post-Training](https://rlhfbook.com/course#prerequisites). Jun 2026.
-  > has a bit of math; assumes a basic knowledge of ml, probability, and linear algebra
+  > includes a bit of math; assumes basic knowledge of ml, probability, and linear algebra
 - Kylo Lo, Akshita Bagia, & Nathan Lambert. [Language Modeling](https://natolambert.com/slides). NeurIPS. Dec 2024.
 
 ### Post-training
@@ -77,11 +76,11 @@ i tried to list them in a suggested reading order.
 ## Advanced: Modern LM Systems
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
 - Afshine Amidi & Shervine Amidi. *[CME295: Transformer & Large Language Models](https://cme295.stanford.edu)*. Stanford University. Fall 2025.
-  > assumes a basic knowledge of ml, probability, and linear algebra
+  > assumes basic knowledge of ml, probability, and linear algebra
 - Percy Liang & Tatsunori Hashimoto. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University. Spring 2026.
-  > assumes a basic knowledge of ml, probability, and linear algebra + transformers/llms. assignments are the most critical parts and extremely load-bearing, but course material (including assignments guide) are highly valuable too
+  > assumes basic knowledge of ml, probability, and linear algebra + transformers/llms. the assignments take a lot of work, but it’s still highly worthwhile even if you only read through the course materials.
 - Alisa Liu. [Alisa's Book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
-  > a good summary at the level of cs336
+  > a good CS336-level summary
 
 ## Agents
 ### What Is an Agent?
@@ -89,7 +88,7 @@ i tried to list them in a suggested reading order.
 - Thomas Ptacek. [You Should Write an Agent](https://fly.io/blog/everyone-write-an-agent/). *fly.io blog*. Nov 2025.
   > shows the "magic" of agents
 - Grant Bourzikas. [Project Glasswing: What Mythos Showed Us](https://blog.cloudflare.com/cyber-frontier-models/). *The Cloudflare Blog*. May 2026.
-  > it's not a mistake to have it in this section instead of [agent security](#agent-security) section
+  > it’s intentional that this is in this section rather than the [agent security](#agent-security) section
 
 #### Optional: Mechanics of an Agent
 - Hugging Face. [Agent Course: Unit 1](https://huggingface.co/learn/agents-course/unit1/introduction). Feb 2025.
@@ -103,7 +102,7 @@ i tried to list them in a suggested reading order.
 
 ### Agentic Engineering
 - Mario Zechner. [Prompts Are Code, .json/.md Files Are State](https://mariozechner.at/posts/2025-06-02-prompts-are-code/). Jun 2025.
-  > the creator of pi foresaw the current "loop engineering" trend
+  > the creator of pi anticipated the current "loop engineering" trend
 - Nader Dabit. [You Could've Invented OpenClaw](https://gist.github.com/dabit3/bc60d3bea0b02927995cd9bf53c3db32). Feb 2026.
   > how openclaw works
 
@@ -117,7 +116,7 @@ i tried to list them in a suggested reading order.
   - David Dworken & Oliver Weller-Davie. [Beyond permission prompts: making Claude Code more secure and autonomous](https://www.anthropic.com/engineering/claude-code-sandboxing). *Engineering at Anthropic*. Oct 2025.
     > "It is worth noting that **effective sandboxing requires both filesystem and network isolation**. Without network isolation, a compromised agent could exfiltrate sensitive files like SSH keys; without filesystem isolation, a compromised agent could easily escape the sandbox and gain network access. It’s by using both techniques that we can provide a safer and faster agentic experience for Claude Code users."
   - Luis Cardoso. [A Field Guide to Sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai). Jan 2026.
-    > a thorough introduction to containers, gvisors, microvms, and wasm/isolates.<br>
+    > a thorough introduction to containers, gvisor, microvms, and wasm/isolates.<br>
     > > "containers are not a sufficient security boundary for hostile code. They can be hardened, and that matters. But they still share the host kernel. The failure modes I see most often are misconfiguration and kernel/runtime bugs — plus a third one that shows up in AI systems: policy leakage."
   - [Sandboxing Agents with AI Workbench](https://docs.nvidia.com/ai-workbench/user-guide/latest/concepts/sandboxing-concept.html). *NVIDIA AI Workbench User Guide*
     > What Sandboxing Does Not Cover
@@ -126,11 +125,12 @@ i tried to list them in a suggested reading order.
     > - **Agent guidance does not actually enforce anything, so make sure to use permissions and hooks.** <br>
     >   MDC rules, skills, and CLAUDE.md files inform the agent about constraints and conventions, but **the agent can ignore them.**
 - Marcus Williamson et al. [Types of Misalignment](misalignment.md). Adapted from [How We Monitor Internal Coding Agents for Misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). *OpenAI Safety Blog*. May 2026.
-  > how agents don't work as intended
+  > how agents can fail to work as intended
 
 ## AI "Safety"
 ### Overview
 - Ben Recht. [The Banal Evil of AI Safety](https://www.argmin.net/p/the-banal-evil-of-ai-safety). Aug 2025.
+  > every ai "safety" researcher should read this article
 - Peter Slattery et al. [Taxonomy of AI Risks](DomainTaxonomyofAIRisks.md). Adapted from [The AI risk repository: A meta-review, database, and taxonomy of risks from artificial intelligence](https://airisk.mit.edu/risks). Mar 2026.
 - Yoshua Bengio et al. *[International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)*. Feb 2026.
 
