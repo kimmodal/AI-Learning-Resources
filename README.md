@@ -76,6 +76,7 @@ ai learning resources i have found useful. roughly in suggested reading order.
 
 ## Advanced: Modern LM Systems
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
+  > a good list of questions that you could learn a lot
 - Afshine Amidi & Shervine Amidi. *[CME295: Transformer & Large Language Models](https://cme295.stanford.edu)*. Stanford University. Fall 2025.
   > assumes basic knowledge of ml, probability, and linear algebra
 - Percy Liang & Tatsunori Hashimoto. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University. Spring 2026.
