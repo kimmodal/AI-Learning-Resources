@@ -4,7 +4,6 @@ also available in [한국어](https://github.com/kimmodal/AI-Learning-Resources/
 ai learning resources i have found useful. roughly in suggested reading order. 
 
 #### TODO
-- add annotations
 - add resources on: inference optimization, agentic engineering, cognitive/societal effects of AI, trustworthy AI, etc.
 - add intermediate courses between cme295 and cs336
 
@@ -42,7 +41,7 @@ ai learning resources i have found useful. roughly in suggested reading order.
   > a bit more on transformers, including residual connections and layer norm
 - Lucas Bayer. [Transformer Tutorial](lucasb.eyer.be/transformer). Sep 2022.
   > includes a bit of math; assumes basic knowledge of probability and linear algebra
-- Devi's blog. [Beyond the Curve: A Holistic Guide to Activation Functions (From Sigmoid to SwiGLU)](https://ai.plainenglish.io/beyond-the-curve-a-holistic-guide-to-activation-functions-from-sigmoid-to-swiglu-3e96faaa7a84). *Artificial Intelligence in Plain English*. Jan 2026.
+- Devi's blog. [Beyond the Curve: A Holistic Guide to Activation Functions (From Sigmoid to SwiGLU)](https://ai.plainenglish.io/beyond-the-curve-a-holistic-guide-to-activation-functions-from-sigmoid-to-swiglu-3e96faaa7a84). Jan 2026.
 
 ### LLMs
 - Jay Alammar & Maarten Grootendorst. Ch 9: Multimodal Large Language Models, in *Hands-on Large Language Models*. O'Reilly. Sep 2024. 
