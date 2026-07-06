@@ -1,5 +1,5 @@
 # AI Learning Resources
-[영어 원본 링크](https://github.com/kimmodal/AI-Learning-Resources/README.md) / 영어 원본에 비해 느리게 업데이트됩니다
+[영어 원본 링크](https://github.com/kimmodal/AI-Learning-Resources) / 영어 원본에 비해 느리게 업데이트됩니다
 
 Good AI learning resources I have found useful.<br>
 I tried to list them in a suggested reading order.
