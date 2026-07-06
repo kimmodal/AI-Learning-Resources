@@ -77,7 +77,7 @@ tried to list them in a suggested reading order.
 - Afshine Amidi & Shervine Amidi. *[CME295: Transformer & Large Language Models](https://cme295.stanford.edu)*. Stanford University. Fall 2025.
   > assumes a basic knowledge of ml, probability, and linear algebra
 - Percy Liang & Tatsunori Hashimoto. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University. Spring 2026.
-  > assumes a basic knowledge of ml, probability, and linear algebra + transformers/llms. assignments are extremely load-bearing
+  > assumes a basic knowledge of ml, probability, and linear algebra + transformers/llms. assignments are the most critical parts and extremely load-bearing, but course material (including assignments guide) are highly valuable too
 - Alisa Liu. [Alisa's Book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
   > a good summary at the level of cs336
 
