@@ -21,7 +21,7 @@ tried to list them in a suggested reading order.
    - [What Is an Agent?](#what-is-an-agent)
    - [Agentic Engineering](#agentic-engineering)
    - [Agent Security](#agent-security)
-6. [Optional/Advanced: Modern LM Systems](#advanced-modern-lm-systems)
+6. [Advanced: Modern LM Systems](#advanced-modern-lm-systems)
 7. [AI "Safety"](#ai-safety)
    - [Overview](#overview)
    - ["Alignment"](#alignment)
@@ -90,7 +90,7 @@ tried to list them in a suggested reading order.
   - Luis Cardoso. [A Field Guide to Sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai). Jan 2026.
 - Marcus Williamson et al. [Types of Misalignment](misalignment.md). Adapted from [How We Monitor Internal Coding Agents for Misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). *OpenAI Safety Blog*. May 2026.
 
-## Optional/Advanced: Modern LM Systems
+## Advanced: Modern LM Systems
 - Percy Liang & Tatsunori Hashimoto. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University. Spring 2026.
 - Alisa Liu. [Alisa's Book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
 
