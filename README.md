@@ -115,12 +115,12 @@ tried to list them in a suggested reading order.
     > "It is worth noting that **effective sandboxing requires both filesystem and network isolation**. Without network isolation, a compromised agent could exfiltrate sensitive files like SSH keys; without filesystem isolation, a compromised agent could easily escape the sandbox and gain network access. It’s by using both techniques that we can provide a safer and faster agentic experience for Claude Code users."
   - Luis Cardoso. [A Field Guide to Sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai). Jan 2026.
     > a thorough introduction to container, gvisor, microvm, and wasm/isolate.
-    "containers are not a sufficient security boundary for hostile code. They can be hardened, and that matters. But they still share the host kernel. The failure modes I see most often are misconfiguration and kernel/runtime bugs — plus a third one that shows up in AI systems: policy leakage."
+    > "containers are not a sufficient security boundary for hostile code. They can be hardened, and that matters. But they still share the host kernel. The failure modes I see most often are misconfiguration and kernel/runtime bugs — plus a third one that shows up in AI systems: policy leakage."
   - [Sandboxing Agents with AI Workbench](https://docs.nvidia.com/ai-workbench/user-guide/latest/concepts/sandboxing-concept.html). *NVIDIA AI Workbench User Guide*
     > What Sandboxing Does Not Cover
-    - Process sandboxes in containers do not isolate environment variables.
-    - Some agent sandboxes fail silently in containers.
-    - **Agent guidance does not actually enforce anything, so make sure to use permissions and hooks.**
+    > - Process sandboxes in containers do not isolate environment variables.
+    > - Some agent sandboxes fail silently in containers.
+    > - **Agent guidance does not actually enforce anything, so make sure to use permissions and hooks.**
 - Marcus Williamson et al. [Types of Misalignment](misalignment.md). Adapted from [How We Monitor Internal Coding Agents for Misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). *OpenAI Safety Blog*. May 2026.
   > how agents don't work as intended
 
