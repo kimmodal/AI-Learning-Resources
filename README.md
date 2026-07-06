@@ -80,7 +80,7 @@ ai learning resources i have found useful. roughly in suggested reading order.
 - Percy Liang & Tatsunori Hashimoto. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University. Spring 2026.
   > assumes basic knowledge of ml, probability, and linear algebra + transformers/llms. the assignments take a lot of work, but it’s still highly worthwhile even if you only read through the course materials.
 - Alisa Liu. [Alisa's Book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
-  > a good CS336-level summary
+  > a good cs336-level summary
 
 ## Agents
 ### What Is an Agent?
