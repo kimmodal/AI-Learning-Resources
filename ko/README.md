@@ -4,9 +4,6 @@
 Good AI learning resources I have found useful.<br>
 I tried to list them in a suggested reading order.
 
-**TODO**
-- Add brief annotations for each resource.
-
 ## Table of Contents
 1. [AI Engineering Overview](#ai-engineering-overview)  
 2. [Architectures](#architectures)  
@@ -34,7 +31,9 @@ I tried to list them in a suggested reading order.
 - 마르턴 흐루턴도르스트. [Reasoning LLMs에 관한 비주얼 가이드](https://tulip-phalange-a1e.notion.site/Reasoning-LLMs-190c32470be2806d834ee0ad98aaa0b6) ([A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/pa-visual-guide-to-reasoning-llms)). Feb 2025.
   - [Mixture of Experts (MoE)에 관한 비주얼 가이드](https://tulip-phalange-a1e.notion.site/Mixture-of-Experts-MoE-11ac32470be28055bcc6cd4a78b26243) ([A Visual Guide to Mixture of Experts](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)). Oct 2024.
   - [양자화에 관한 비주얼 가이드](https://tulip-phalange-a1e.notion.site/a947f0efb8eb4813a533b0d957134f6d) ([A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)). Jul 2024.
-    - Sam Rose. [Quantization from the Ground Up](https://ngrok.com/blog/quantization). *ngrok blog*. Mar 2026. (이걸 먼저 읽으세요)
+    - Sam Rose. [Quantization from the Ground Up](https://ngrok.com/blog/quantization). *ngrok blog*. Mar 2026.
+      > 이 글을 '비주얼 가이드' 보다 먼저 읽는것을 추천합니다
+  - [Gemma 4에 관한 비주얼 가이드](https://tulip-phalange-a1e.notion.site/Gemma-4-339c32470be28087a706e935df7b730d). Apr 2026.
   - [A Visual Guide to DiffusionGemma](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-diffusiongemma). Jun 2026.
   - [맘바 및 상태 공간 모델에 대한 비주얼 가이드](https://tulip-phalange-a1e.notion.site/05f977226a0e44c6b35ed9bfe0076839) ([A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)). Feb 2024.
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
@@ -50,7 +49,6 @@ I tried to list them in a suggested reading order.
 - Nathan Lambert. [Building OLMo in the Era of Agents](https://natolambert.com/slides). Feb 2026.
   - [Frontier Post-Training Recipe Survey](https://rlhfbook.com/teach/course/conversation-01). Jun 2026.
 
-
 ## Advanced: Modern LM Systems
 - Percy Liang & Tatsunori Hashimoto. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University. Spring 2026.
 - Alisa Liu. [Alisa's Book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
@@ -59,13 +57,16 @@ I tried to list them in a suggested reading order.
 ### What Is an Agent?
 - Ben Recht. [Secrets of Intelligence Services](https://www.argmin.net/p/secrets-of-intelligence-services). Feb 2026.
 - Thomas Ptacek. [You Should Write an Agent](https://fly.io/blog/everyone-write-an-agent/). *fly.io blog*. Nov 2025.
+- 클라우드플레어 블로그. [Glasswing 프로젝트: 저희가 Mythos를 통해 관찰한 내용](https://blog.cloudflare.com/ko-kr/cyber-frontier-models/) ([Project Glasswing: What Mythos Showed Us](https://blog.cloudflare.com/cyber-frontier-models/)). May 2026.
+
+#### Optional: Mechanics of an Agent
 - 오픈AI 개발자 문서. [Function Calling](https://developers.openai.com/api/docs/guides/function-calling). 
 - 오픈AI 엔지니어링 블로그. [Codex 에이전트 루프 풀어보기](https://openai.com/ko-KR/index/unrolling-the-codex-agent-loop/). ([Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/)). Jan 2026.
 - 자손킴(jasonkim). [Claude API의 Request Body 분석](https://hackers.pub/@jasonkim/2025/claude-api-request-body). Dec 2025.
     - [Claude Code의 거의 모든 것은 Tool Use입니다. MCP도 subagent도 skills 역시요](https://hackers.pub/@jasonkim/2025/agent-tool-use). Dec 2025.
     - [Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use). Dec 2025.
     - [MCP도 Tool Use를 사용합니다](https://hackers.pub/@jasonkim/2025/mcp-is-tool-use). Dec 2025.
-- 클라우드플레어 블로그. [Glasswing 프로젝트: 저희가 Mythos를 통해 관찰한 내용](https://blog.cloudflare.com/ko-kr/cyber-frontier-models/) ([Project Glasswing: What Mythos Showed Us](https://blog.cloudflare.com/cyber-frontier-models/)). May 2026.
+
 
 ### Agentic Engineering
 - Mario Zechner. [Prompts Are Code, .json/.md Files Are State](https://mariozechner.at/posts/2025-06-02-prompts-are-code/). Jun 2025.
