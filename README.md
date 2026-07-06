@@ -63,7 +63,8 @@ ai learning resources i have found useful. roughly in suggested reading order.
 - Yann Dubois. [Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf). *CS294/194-196: Agentic AI*. UC Berkeley. Fall 2025.
   > might be a bit difficult if you are new to training llms. but it's a good summary/overview of the entire process
 - Nathan Lambert. [The ML Foundations of LLM Post-Training](https://rlhfbook.com/course#prerequisites). Jun 2026.
-  > includes a bit of math; assumes basic knowledge of ml, probability, and linear algebra
+  > includes a bit of math; assumes basic knowledge of ml, probability, and linear algebra<br>
+  > [Nathan Lambert](https://x.com/natolambert) is a must follow for post-training
 - Kylo Lo, Akshita Bagia, & Nathan Lambert. [Language Modeling](https://natolambert.com/slides). NeurIPS. Dec 2024.
 
 ### Post-training
