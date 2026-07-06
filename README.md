@@ -151,9 +151,9 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
   > 4. “Evaluation awareness” isn't mystical: the model can recognize contrivance because it’s a strong reader
   > 5. Post-training mostly narrows/reshapes behavior, and it can both help and distort."
 - Christopher Summerfield et al. [Lessons from a Chimp: AI ‘Scheming’ and the Quest for Ape Language](https://arxiv.org/pdf/2507.03409). Jul 2025.
-  > " 1. Many of the claims hinge on anecdotal evidence.
-  >   2. Studies often lack hypotheses and control conditions
-  >   3. Studies have weak or unclear theoretical motivation
+  > " 1. Many of the claims hinge on anecdotal evidence.<br>
+  >   2. Studies often lack hypotheses and control conditions<br>
+  >   3. Studies have weak or unclear theoretical motivation<br>
   >   4. Findings are often interpreted in exaggerated or unwarranted ways"
 
 ## AI Writing Smells
