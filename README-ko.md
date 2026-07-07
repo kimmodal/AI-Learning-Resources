@@ -3,11 +3,11 @@
 (한글 번역은 GPT 5.5가 메인으로 하고, 제가 좀 다듬었습니다.)  
 마지막 업데이트: 2026년 7월 6일  
 
-제가 유용하다고 느낀 AI 관련 자료를, 추천하는 읽기 순서에 따라 정리했습니다
+제가 유용하다고 느낀 AI 관련 자료를, 추천 읽기 순서에 따라 정리했습니다
 
 #### TODO
-- 자료 추가: inference optimization, agentic engineering, cognitive/social effects of AI, trustworthy AI 
-- CME295와 CS336 사이 수준의 중급 강의 추가
+- 자료 추가 필요 항목: inference optimization, agentic engineering, cognitive/social effects of AI, trustworthy AI 
+- CME295와 CS336 사이 수준의 중급 강의 추가 필요
 
 ## Table of Contents
 1. [AI Engineering Overview](#ai-engineering-overview)  
@@ -32,7 +32,7 @@
 ## AI Engineering Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. Dec 2024.
   > 칩 후옌. *AI 엔지니어링*. 한빛미디어.<br>
-  > 전체 AI 엔지니어링 스택을 훑기에 아주 좋은 개론서입니다. 이 목록에서 하나만 읽으신다면, 이 책을 추천합니다. <br> 
+  > 전체 AI 엔지니어링 스택을 훑기에 아주 좋은 개론서입니다. 이 목록에서 하나만 읽으신다면 이 책을 추천합니다. <br> 
   > LLM 시스템, 평가, 데이터, RAG, 파인튜닝, 에이전트, 추론 최적화, 프롬프트 엔지니어링 등의 기본을 다룹니다. 
 
 ## Architectures
@@ -82,7 +82,7 @@
 
 ## 심화: Modern LM Systems
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
-  > 질문 목록이 좋고, 읽어보시면 배울 것이 많습니다
+  > 질문 목록이 좋고, 배울 것이 많습니다
 - 스탠포드. *[CME295: Transformer & Large Language Models](https://cme295.stanford.edu)*. Fall 2025.
   > 머신러닝, 확률, 선형대수 지식을 전제로 합니다
 - 스탠포드. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Spring 2026.
@@ -111,13 +111,13 @@
 
 ### Agentic Engineering
 - Mario Zechner. [Prompts Are Code, .json/.md Files Are State](https://mariozechner.at/posts/2025-06-02-prompts-are-code/). Jun 2025.
-  > 오픈클로의 기반인 코딩 에이전트 Pi 제작자가 요즘 유행인 "루프 엔지니어링" 흐름을 1년 전에 짚었습니다
+  > 오픈클로의 기반이 되는 코딩 에이전트 Pi 제작자가 요즘 유행인 "루프 엔지니어링" 흐름을 1년 전에 짚었습니다
 - Nader Dabit. [You Could've Invented OpenClaw](https://gist.github.com/dabit3/bc60d3bea0b02927995cd9bf53c3db32). Feb 2026.
-  > OpenClaw가 어떻게 작동하는지 설명합니다
+  > 오픈클로가 어떻게 작동하는지 설명합니다
 
 ### Agent Security
 - Simon Willison. [The Lethal Trifecta for AI Agents: Private data, Untrusted Content, and External Communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/). Jun 2025.
-  > 윌리슨 본인이 말하듯, "치명적 삼중 조합"은 기억에 잘 남는 표현이고 좋은 프레임워크이기도 합니다
+  > 윌리슨 본인이 말하듯, "치명적 삼중 조합"은 기억에 잘 남는 표현인데다, 에이전트 보안을 이해하기 좋은 프레임워크입니다
 - 영미권 5개국 정보 & 보안 기관 합동. *[Careful Adoption of Agentic AI Services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)*. May 2026.
   > 실제 시스템에서 AI 에이전트를 구현하시는 분이라면 필독해야 할 글입니다
 - 엔비디아. [Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk](https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/). *엔비디아 기술 블로그*. Jan 2026.
@@ -143,7 +143,7 @@
 - Peter Slattery et al. [Taxonomy of AI Risks](DomainTaxonomyofAIRisks.md). Adapted from [The AI risk repository: A meta-review, database, and taxonomy of risks from artificial intelligence](https://airisk.mit.edu/risks). Mar 2026.
   > 좋은 프레임워크입니다
 - Yoshua Bengio et al. *[International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)*. Feb 2026.
-  > 좋은 참고 자료입니다. 
+  > 좋은 참고 자료입니다
 
 ### "Alignment"
 - Séb Krier. [Scary Model Cards and the Discourse Shifting](https://x.com/sebkrier/status/2020561261751062664). Feb 2026.
