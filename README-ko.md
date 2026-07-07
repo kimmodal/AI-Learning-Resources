@@ -1,5 +1,6 @@
 # AI 학습에 도움되는 자료
-[원본](https://github.com/kimmodal/AI-Learning-Resources/ ) (한글 번역은 GPT 5.5가 메인으로 하고, 제가 좀 다듬었습니다.) 
+[원본](https://github.com/kimmodal/AI-Learning-Resources/ ) <br> 
+(한글 번역은 GPT 5.5가 메인으로 하고, 제가 좀 다듬었습니다.) 
 마지막 업데이트: 2026년 7월 6일
 
 제가 유용하다고 느낀 AI 관련 자료를, 추천하는 읽기 순서에 따라 정리했습니다
