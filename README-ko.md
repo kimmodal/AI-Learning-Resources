@@ -6,7 +6,7 @@
 제가 유용하다고 느낀 AI 관련 자료를, 추천 읽기 순서에 따라 정리했습니다
 
 #### TODO
-- 자료 추가 필요 항목: inference optimization, agentic engineering, cognitive/social effects of AI, trustworthy AI 
+- 자료 추가가 필요한 항목: inference optimization, agentic engineering, cognitive/social effects of AI, trustworthy AI 
 - CME295와 CS336 사이 수준의 중급 강의 추가 필요
 
 ## Table of Contents
