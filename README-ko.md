@@ -160,7 +160,7 @@
   > 4. 발견이 과장되거나 정당화하기 어려운 방식으로 해석되는 경우가 많습니다"
 
 ## AI Writing Smells
-> "코드 스멜"처럼 AI가 쓴 글은 (안 좋은) 티가 납니다. 왜 AI가 쓴 글은 그 티를 벗을 수 없을까요? 그리고 왜 AI의 코딩능력은 급수적으로 증가하는데, 글쓰기 능력은 그렇지 못할까요?
+> "코드 스멜"처럼 AI가 쓴 글은 (안 좋은) 티가 납니다. 왜 AI가 쓴 글은 그 티를 벗을 수 없을까요? AI의 코딩능력은 급수적으로 증가하는데, 왜 글쓰기 능력은 그렇지 못할까요?
 - 뉴욕타임즈. [Why Does A.I. Write Like … That?](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html). Dec 2025.
   - 위키피디아. [Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing).
   - Shiv Bosale. [Various LLM Smells](https://shvbsle.in/various-llm-smells/). May 2026.
