@@ -1,7 +1,7 @@
 # AI 학습에 도움되는 자료
-[원본](https://github.com/kimmodal/AI-Learning-Resources/ ) <br> 
-(한글 번역은 GPT 5.5가 메인으로 하고, 제가 좀 다듬었습니다.) 
-마지막 업데이트: 2026년 7월 6일
+[원본](https://github.com/kimmodal/AI-Learning-Resources/) 
+(한글 번역은 GPT 5.5가 메인으로 하고, 제가 좀 다듬었습니다.)  
+마지막 업데이트: 2026년 7월 6일  
 
 제가 유용하다고 느낀 AI 관련 자료를, 추천하는 읽기 순서에 따라 정리했습니다
 
@@ -134,7 +134,7 @@
     > - **에이전트 지침은 실제로 아무것도 강제하지 않으므로, 반드시 권한과 훅을 사용해야 합니다.** <br>
     >   MDC 규칙, skills, CLAUDE.md 파일은 에이전트에게 제약과 관례를 알려주지만, **에이전트는 그것들을 무시할 수 있습니다.**"
 - 오픈AI. [Types of Misalignment](misalignment.md). [How We Monitor Internal Coding Agents for Misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/)에서 발췌. *오픈AI 안전성(Safety) 블로그*. May 2026.
-  > 에이전트가 의도대로 작동하지 않을 수 있는 방식들입니다
+  > 에이전트가 의도대로 작동하지 않을 수 있는 방식들입니다: 안했으면서 했다고 거짓말하기, 하지 말라고 한 것들(예: 가드레일)을 몰래 하기, 한 일을 거짓말로 말하기(사용한 도구 목록 등), 마음대로 파일 지우기, 마음대로 데이터를 외부로 보내기 등
 
 ## AI "Safety"
 ### Overview
