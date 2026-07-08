@@ -140,8 +140,7 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
 - Ben Recht. [The Banal Evil of AI Safety](https://www.argmin.net/p/the-banal-evil-of-ai-safety). Aug 2025.
   > every AI "safety" researcher should read this
 - Alex Stamos. [AI Safety Part 1](https://cs152.stanford.edu/slides/L03_ai_safety_1.pdf). *CS152: Trust and Safety*. Stanford University. Spring 2026.
-  > A good overview of the field, covering everything from the differences between AI safety, alignment, security, risk, and fairness to how companies actually build LLMs. I’d recommend the entire course; see below.
-  - *[CS152: Trust and Safety](https://cs152.stanford.edu/schedule/)*. Stanford University. Spring 2026.
+  > A good overview of the field, covering everything from the differences between AI safety, alignment, security, risk, and fairness to how companies actually build LLMs. I’d recommend [the entire course](https://cs152.stanford.edu/schedule/).
 - Peter Slattery et al. [Taxonomy of AI Risks](DomainTaxonomyofAIRisks.md). Adapted from [The AI risk repository: A meta-review, database, and taxonomy of risks from artificial intelligence](https://airisk.mit.edu/risks). Mar 2026.
   > a good framework
 - Yoshua Bengio et al. *[International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)*. Feb 2026.
