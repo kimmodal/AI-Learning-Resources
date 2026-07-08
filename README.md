@@ -1,7 +1,7 @@
 # AI Learning Resources
 [한국어](README-ko.md)
 
-Last Updated: July 7, 2026
+Last Updated: July 8, 2026
 
 A curated list of AI learning resources I’ve found useful, roughly in the order I’d recommend reading them.
 
