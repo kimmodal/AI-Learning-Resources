@@ -84,7 +84,7 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
   > a good list of questions that you can learn a lot from
 - Afshine Amidi & Shervine Amidi. *[CME295: Transformer & Large Language Models](https://cme295.stanford.edu)*. Stanford University. Fall 2025.
   > assumes basic knowledge of ml, probability, and linear algebra. offers a good overview of the current state of the field.
-  - *[Super Study Guide: Transformers & Large Language Models](https://superstudy.guide/transformers-large-language-models/). 2024.
+  - *[Super Study Guide: Transformers & Large Language Models](https://superstudy.guide/transformers-large-language-models/)*. 2024.
     > a good companion resource if you’re missing some of the ml background
 - Percy Liang & Tatsunori Hashimoto. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University. Spring 2026.
   > assumes basic knowledge of ml, probability, and linear algebra + transformers/llms. THE SOTA course for getting up to speed on where the field is right now. the assignments are the heart of the course, but they take a lot of work. still highly worthwhile even if you only read through the materials
