@@ -6,8 +6,8 @@ Last Updated: July 8, 2026
 A curated list of AI learning resources I’ve found useful, roughly in the order I’d recommend reading them.
 
 #### TODO
-- Add resources on inference optimization, agentic engineering, cognitive/societal effects of AI, trustworthy AI, etc.
-- Add intermediate courses between CME295 and CS336
+- Add resources on: inference optimization, agentic engineering, cognitive/societal effects of AI, trustworthy AI, etc.
+- Add an intermediate course between CME295 and CS336.
 
 ## Table of Contents
 1. [AI Engineering Overview](#ai-engineering-overview)  
@@ -83,9 +83,11 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
   > a good list of questions that you can learn a lot from
 - Afshine Amidi & Shervine Amidi. *[CME295: Transformer & Large Language Models](https://cme295.stanford.edu)*. Stanford University. Fall 2025.
-  > assumes basic knowledge of ml, probability, and linear algebra
+  > assumes basic knowledge of ml, probability, and linear algebra. offers a good overview of the current state of the field.
+  - *[Super Study Guide: Transformers & Large Language Models](https://superstudy.guide/transformers-large-language-models/). 2024.
+    > a good companion resource if you’re missing some of the ml background
 - Percy Liang & Tatsunori Hashimoto. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University. Spring 2026.
-  > assumes basic knowledge of ml, probability, and linear algebra + transformers/llms. the assignments are the heart of the course, but they take a lot of work. still highly worthwhile even if you only read through the materials
+  > assumes basic knowledge of ml, probability, and linear algebra + transformers/llms. THE SOTA course for getting up to speed on where the field is right now. the assignments are the heart of the course, but they take a lot of work. still highly worthwhile even if you only read through the materials
 - Alisa Liu. [Alisa's Book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
   > a good cs336-level summary
 
@@ -142,7 +144,7 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
 - Alex Stamos. [AI Safety Part 1](https://cs152.stanford.edu/slides/L03_ai_safety_1.pdf). *CS152: Trust and Safety*. Stanford University. Spring 2026.
   > a good overview of the field, covering everything from the differences between AI safety, alignment, security, risk, and fairness to how companies actually build ai products. I’d recommend [the entire course](https://cs152.stanford.edu/schedule/) for anyone interested in the relationship between technology and society
 - Yoshua Bengio et al. *[International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)*. Feb 2026.
-  > a good reference
+  > a good reference 
 
 ### "Alignment"
 - Séb Krier. [Scary Model Cards and the Discourse Shifting](https://x.com/sebkrier/status/2020561261751062664). Feb 2026.
