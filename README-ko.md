@@ -2,7 +2,7 @@
 [원본](https://github.com/kimmodal/AI-Learning-Resources/) 
 (한글 번역은 GPT 5.5가 메인으로 하고, 제가 좀 다듬었습니다. / 한국어 버전은 업데이트가 느립니다.)
 
-마지막 업데이트: 2026년 7월 6일  
+마지막 업데이트: 2026년 7월 7일  
 
 제가 유용하다고 느낀 AI 관련 자료를, 추천 읽기 순서에 따라 정리했습니다
 
@@ -58,7 +58,7 @@
     - Sam Rose. [Quantization from the Ground Up](https://ngrok.com/blog/quantization). *ngrok blog*. Mar 2026.
       > 위 글을 읽기 전에 이것부터 읽어보세요
   - [A Visual Guide to Gemma 4](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-gemma-4). Apr 2026.
-    > 2026년 초 모델 아키텍처의 트렌드를 잘 보여줍니다. 멀티모달리티, MoE, GQA, Speculative Decoding, MTP 등.
+    > 현재(2026년 초)의 모델 아키텍처 트렌드를 잘 보여줍니다. 멀티모달리티, MoE, GQA, Speculative Decoding, MTP 등.
   - [A Visual Guide to DiffusionGemma](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-diffusiongemma). Jun 2026.
     > 확산(Diffusion) 모델 입문으로도 좋습니다
   - [A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state). Feb 2024.
@@ -85,7 +85,9 @@
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
   > 질문 목록이 좋고, 배울 것이 많습니다
 - 스탠포드. *[CME295: Transformer & Large Language Models](https://cme295.stanford.edu)*. Fall 2025.
-  > 머신러닝, 확률, 선형대수 지식을 전제로 합니다
+  > 머신러닝, 확률, 선형대수 지식을 전제로 합니다. *AI Engineering*(칩 후옌)의 심화 버전.
+  - *[Super Study Guide: Transformers & Large Language Models](https://superstudy.guide/transformers-large-language-models/)*. 2024.
+    > 확률, 선형대수 지식을 전제로 합니다. CME295 교수들이 저술한 책. 머신러닝 배경지식이 조금 부족하다면 함께 참고하기 좋은 보조 자료입니다
 - 스탠포드. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Spring 2026.
   > 머신러닝, 확률, 선형대수, 트랜스포머/LLM 지식을 전제로 합니다. 과제가 이 강의의 핵심이지만 시간이 많이 듭니다. 자료만 훑어보셔도 여전히 충분히 가치 있습니다
 - Alisa Liu. [Alisa's Book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
@@ -141,8 +143,8 @@
 ### Overview
 - Ben Recht. [The Banal Evil of AI Safety](https://www.argmin.net/p/the-banal-evil-of-ai-safety). Aug 2025.
   > 모든 AI "안전성(Safety)" 연구자가 읽어야 할 글입니다
-- Peter Slattery et al. [Taxonomy of AI Risks](DomainTaxonomyofAIRisks.md). Adapted from [The AI risk repository: A meta-review, database, and taxonomy of risks from artificial intelligence](https://airisk.mit.edu/risks). Mar 2026.
-  > 좋은 프레임워크입니다
+- Alex Stamos. [AI Safety Part 1](https://cs152.stanford.edu/slides/L03_ai_safety_1.pdf). *[CS152: Trust and Safety]*. Stanford University. Spring 2026.
+  > AI 안전, 정렬, 보안, 리스크, 공정성의 차이부터 기업들이 실제로 LLM을 구축하는 방식까지 폭넓게 다루는, 이 분야에 대한 좋은 개관입니다. 사회와 기술의 관계에 관심이 있으신 분들께는 [강의 전체](https://cs152.stanford.edu/)를 추천합니다.
 - Yoshua Bengio et al. *[International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)*. Feb 2026.
   > 좋은 참고 자료입니다
 
