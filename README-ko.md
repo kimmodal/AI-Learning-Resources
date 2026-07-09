@@ -89,7 +89,7 @@
   - *[Super Study Guide: Transformers & Large Language Models](https://superstudy.guide/transformers-large-language-models/)*. 2024.
     > 확률, 선형대수 지식을 전제로 합니다. CME295 교수들이 저술한 책. 머신러닝 배경지식이 조금 부족하다면 함께 참고하기 좋은 보조 자료입니다
 - 스탠포드. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Spring 2026.
-  > 머신러닝, 확률, 선형대수, 트랜스포머/LLM 지식을 전제로 합니다. 과제가 이 강의의 핵심이지만 시간이 많이 듭니다. 자료만 훑어보셔도 여전히 충분히 가치 있습니다
+  > 머신러닝, 확률, 선형대수, 트랜스포머/LLM 지식을 전제로 합니다. 현재 AI 분야의 흐름을 빠르게 따라잡기에 가장 좋은 강의입니다. 과제가 이 강의의 핵심이지만 시간이 많이 듭니다. 자료만 훑어보셔도 여전히 충분히 가치 있습니다
 - Alisa Liu. [Alisa's Book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
   > CS336 수준의 좋은 요약입니다
 
