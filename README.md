@@ -1,7 +1,7 @@
 # AI Learning Resources
 [한국어](README-ko.md)
 
-Last Updated: July 8, 2026
+Last Updated: July 13, 2026
 
 A curated list of AI learning resources I’ve found useful, roughly in the order I’d recommend reading them.
 
@@ -142,7 +142,7 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
 - Ben Recht. [The Banal Evil of AI Safety](https://www.argmin.net/p/the-banal-evil-of-ai-safety). Aug 2025.
   > every AI "safety" researcher should read this
 - Alex Stamos. [AI Safety Part 1](https://cs152.stanford.edu/slides/L03_ai_safety_1.pdf). *CS152: Trust and Safety*. Stanford University. Spring 2026.
-  > a good overview of the field, covering everything from the differences between AI safety, alignment, security, risk, and fairness to how companies actually build ai products. I’d recommend [the entire course](https://cs152.stanford.edu/schedule/) for anyone interested in the relationship between technology and society
+  > a good overview of the field, covering everything from the differences between AI safety, alignment, security, risk, and fairness to how companies actually build ai products. I should add that I disagree with the arguments being made against open models. I’d recommend [the entire course](https://cs152.stanford.edu/schedule/) for anyone interested in the relationship between technology and society
 - Yoshua Bengio et al. *[International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)*. Feb 2026.
   > a good reference 
 
