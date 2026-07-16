@@ -143,7 +143,7 @@
 ### Overview
 - Ben Recht. [The Banal Evil of AI Safety](https://www.argmin.net/p/the-banal-evil-of-ai-safety). Aug 2025.
   > 모든 AI "안전성(Safety)" 연구자가 읽어야 할 글입니다
-- Alex Stamos. [AI Safety Part 1](https://cs152.stanford.edu/slides/L03_ai_safety_1.pdf). *[CS152: Trust and Safety]*. Stanford University. Spring 2026.
+- Alex Stamos. [AI Safety Part 1](https://cs152.stanford.edu/slides/L03_ai_safety_1.pdf). *CS152: Trust and Safety*. Stanford University. Spring 2026.
   > AI 안전, 정렬, 보안, 리스크, 공정성의 차이부터 기업들이 실제로 LLM을 구축하는 방식까지 폭넓게 다루는, 이 분야에 대한 좋은 개관입니다. 사회와 기술의 관계에 관심이 있으신 분들께는 [강의 전체](https://cs152.stanford.edu/)를 추천합니다.
 - Yoshua Bengio et al. *[International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)*. Feb 2026.
   > 좋은 참고 자료입니다
