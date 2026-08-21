@@ -6,8 +6,7 @@ Last Updated: Aug 22, 2026
 A curated list of AI learning resources I’ve found useful, roughly in the order I’d recommend reading them.
 
 #### TODO
-- Add resources on: inference optimization, agentic engineering, cognitive/societal effects of AI, trustworthy AI, etc.
-- Add prerequisites for CS336.
+- Add resources on: inference optimization, agentic engineering, cognitive/societal effects of AI, trustworthy AI, prerequisites for CS336, etc..
 
 ## Table of Contents
 1. [AI Engineering Overview](#ai-engineering-overview)  
