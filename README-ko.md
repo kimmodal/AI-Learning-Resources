@@ -2,13 +2,12 @@
 [원본](https://github.com/kimmodal/AI-Learning-Resources/) 
 (한글 번역은 GPT 5.5가 메인으로 하고, 제가 좀 다듬었습니다. / 한국어 버전은 업데이트가 느립니다.)
 
-마지막 업데이트: 2026년 7월 7일  
+마지막 업데이트: 2026년 8월 20일
 
 제가 유용하다고 느낀 AI 관련 자료를, 추천 읽기 순서에 따라 정리했습니다
 
 #### TODO
-- 자료 추가가 필요한 항목: inference optimization, agentic engineering, cognitive/social effects of AI, trustworthy AI 
-- CME295와 CS336 사이 수준의 중급 강의 추가 필요
+- 자료 추가가 필요한 항목: inference optimization, agentic engineering, cognitive/social effects of AI, trustworthy AI, CS336 선수과목
 
 ## Table of Contents
 1. [AI Engineering Overview](#ai-engineering-overview)  
@@ -84,12 +83,8 @@
 ## 심화: Modern LM Systems
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
   > 질문 목록이 좋고, 배울 것이 많습니다
-- 스탠포드. *[CME295: Transformer & Large Language Models](https://cme295.stanford.edu)*. Fall 2025.
-  > 머신러닝, 확률, 선형대수 지식을 전제로 합니다. *AI Engineering*(칩 후옌)의 심화 버전.
-  - *[Super Study Guide: Transformers & Large Language Models](https://superstudy.guide/transformers-large-language-models/)*. 2024.
-    > 확률, 선형대수 지식을 전제로 합니다. CME295 교수들이 저술한 책. 머신러닝 배경지식이 조금 부족하다면 함께 참고하기 좋은 보조 자료입니다
 - 스탠포드. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Spring 2026.
-  > 머신러닝, 확률, 선형대수, 트랜스포머/LLM 지식을 전제로 합니다. 현재 AI 분야의 흐름을 빠르게 따라잡기에 가장 좋은 강의입니다. 과제가 이 강의의 핵심이지만 시간이 많이 듭니다. 자료만 훑어보셔도 여전히 충분히 가치 있습니다
+  > 확률, 선형대수, 머신러닝(LLM 포함) 지식을 전제로 합니다. 현재 AI 분야의 흐름을 빠르게 따라잡기에 가장 좋은 강의입니다. 과제가 이 강의의 핵심이지만 시간이 많이 듭니다. 자료만 훑어보셔도 여전히 충분히 가치 있습니다
 - Alisa Liu. [Alisa's Book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
   > CS336 수준의 좋은 요약입니다
 
@@ -106,7 +101,6 @@
 - 허깅페이스. [Agent Course: Unit 1](https://huggingface.co/learn/agents-course/unit1/introduction). Feb 2025.
 - 오픈AI. [Function Calling](https://developers.openai.com/api/docs/guides/function-calling). *오픈AI 개발자 문서*
 - 오픈AI. [Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/). *오픈AI 엔지니어링 블로그*. Jan 2026.
-- 오픈AI. [From model to agent: Equipping the Responses API with a computer environment](https://openai.com/index/equip-responses-api-computer-environment/). *오픈AI 엔지니어링 블로그*. Mar 2026.
 - 자손킴(jasonkim). [Claude API의 Request Body 분석](https://hackers.pub/@jasonkim/2025/claude-api-request-body). Dec 2025.
   - [Claude Code의 거의 모든 것은 Tool Use입니다. MCP도 subagent도 skills 역시요](https://hackers.pub/@jasonkim/2025/agent-tool-use). Dec 2025.
   - [Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use). Dec 2025.
