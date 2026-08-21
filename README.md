@@ -1,13 +1,13 @@
 # AI Learning Resources
 [한국어](README-ko.md)
 
-Last Updated: July 13, 2026
+Last Updated: Aug 22, 2026
 
 A curated list of AI learning resources I’ve found useful, roughly in the order I’d recommend reading them.
 
 #### TODO
 - Add resources on: inference optimization, agentic engineering, cognitive/societal effects of AI, trustworthy AI, etc.
-- Add an intermediate course between CME295 and CS336.
+- Add prerequisites for CS336.
 
 ## Table of Contents
 1. [AI Engineering Overview](#ai-engineering-overview)  
@@ -82,12 +82,8 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
 ## Advanced: Modern LM Systems
 - Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
   > a good list of questions that you can learn a lot from
-- Afshine Amidi & Shervine Amidi. *[CME295: Transformer & Large Language Models](https://cme295.stanford.edu)*. Stanford University. Fall 2025.
-  > assumes basic knowledge of ml, probability, and linear algebra. offers a good overview of the current state of the field.
-  - *[Super Study Guide: Transformers & Large Language Models](https://superstudy.guide/transformers-large-language-models/)*. 2024.
-    > a good companion resource if you’re missing some of the ml background
 - Percy Liang & Tatsunori Hashimoto. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University. Spring 2026.
-  > assumes basic knowledge of ml, probability, and linear algebra + transformers/llms. THE SOTA course for getting up to speed on where the field is right now. the assignments are the heart of the course, but they take a lot of work. still highly worthwhile even if you only read through the materials
+  > assumes working knowledge of ml, probability, and linear algebra. THE SOTA course for getting up to speed on where the field is right now. the assignments are the heart of the course, but they take a lot of work. still highly worthwhile even if you only read through the materials
 - Alisa Liu. [Alisa's Book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
   > a good cs336-level summary
 
@@ -104,7 +100,6 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
 - Hugging Face. [Agent Course: Unit 1](https://huggingface.co/learn/agents-course/unit1/introduction). Feb 2025.
 - OpenAI. [Function Calling](https://developers.openai.com/api/docs/guides/function-calling). *OpenAI Developer Docs.*
 - Michael Bolin. [Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/). *OpenAI Engineering Blog*. Jan 2026.
-- Bo Xu et al. [From model to agent: Equipping the Responses API with a computer environment](https://openai.com/index/equip-responses-api-computer-environment/). *OpenAI Engineering Blog*. Mar 2026.
 - 자손킴(jasonkim). [Claude API의 Request Body 분석](https://hackers.pub/@jasonkim/2025/claude-api-request-body). Dec 2025.
   - [Claude Code의 거의 모든 것은 Tool Use입니다. MCP도 subagent도 skills 역시요](https://hackers.pub/@jasonkim/2025/agent-tool-use). Dec 2025.
   - [Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use). Dec 2025.
