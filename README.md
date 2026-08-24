@@ -112,21 +112,24 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
   > as Willison himself says, "lethal trifecta" is a catchy phrase. and it's a good framework
 - ACSC, CISA, NSA, Cyber Center, NCSC NZ, & NCSC UK. *[Careful Adoption of Agentic AI Services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)*. May 2026.
   > should be required reading for anyone implementing ai agents in real systems
-- Rich Harang. [Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk](https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/). *NVIDIA Technical Blog*. Jan 2026.
-  > should also be required reading for anyone implementing ai agents in real systems
-  - David Dworken & Oliver Weller-Davie. [Beyond permission prompts: making Claude Code more secure and autonomous](https://www.anthropic.com/engineering/claude-code-sandboxing). *Engineering at Anthropic*. Oct 2025.
-    > "It is worth noting that **effective sandboxing requires both filesystem and network isolation**. Without network isolation, a compromised agent could exfiltrate sensitive files like SSH keys; without filesystem isolation, a compromised agent could easily escape the sandbox and gain network access."
-  - Luis Cardoso. [A Field Guide to Sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai). Jan 2026.
-    > a thorough introduction to containers, gVisor, microVMs, and WASM/isolates<br>
-    > > "containers are not a sufficient security boundary for hostile code. ... they still share the host kernel."
-  - NVIDIA. [Sandboxing Agents with AI Workbench](https://docs.nvidia.com/ai-workbench/user-guide/latest/concepts/sandboxing-concept.html). *NVIDIA AI Workbench User Guide*
-    > "What Sandboxing Does Not Cover
-    > - Process sandboxes in containers do not isolate environment variables.
-    > - Some agent sandboxes fail silently in containers.
-    > - **Agent guidance does not actually enforce anything, so make sure to use permissions and hooks.** <br>
-    >   MDC rules, skills, and CLAUDE.md files inform the agent about constraints and conventions, but **the agent can ignore them.**"
 - Marcus Williamson et al. [Types of Misalignment](misalignment.md). Adapted from [How We Monitor Internal Coding Agents for Misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/). *OpenAI Safety Blog*. May 2026.
   > how agents can fail to work as intended
+
+#### Sandboxing Agents
+- Rich Harang. [Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk](https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/). *NVIDIA Technical Blog*. Jan 2026.
+  > should also be required reading for anyone implementing ai agents in real systems
+   - David Dworken & Oliver Weller-Davie. [Beyond permission prompts: making Claude Code more secure and autonomous](https://www.anthropic.com/engineering/claude-code-sandboxing). *Engineering at Anthropic*. Oct 2025.
+     > "It is worth noting that **effective sandboxing requires both filesystem and network isolation**. Without network isolation, a compromised agent could exfiltrate sensitive files like SSH keys; without filesystem isolation, a compromised agent could easily escape the sandbox and gain network
+   - NVIDIA. [Sandboxing Agents with AI Workbench](https://docs.nvidia.com/ai-workbench/user-guide/latest/concepts/sandboxing-concept.html). *NVIDIA AI Workbench User Guide*
+     > "What Sandboxing Does Not Cover
+     > - Process sandboxes in containers do not isolate environment variables.
+     > - Some agent sandboxes fail silently in containers.
+     > - **Agent guidance does not actually enforce anything, so make sure to use permissions and hooks.** <br>
+     >   MDC rules, skills, and CLAUDE.md files inform the agent about constraints and conventions, but **the agent can ignore them.**"
+- Luis Cardoso. [A Field Guide to Sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai). Jan 2026.
+  > a thorough introduction to containers, gVisor, microVMs, and WASM/isolates<br>
+  > > "containers are not a sufficient security boundary for hostile code. ... they still share the host kernel."
+
 
 ## AI "Safety"
 ### Overview
