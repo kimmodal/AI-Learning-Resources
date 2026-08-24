@@ -76,8 +76,6 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
 > under construction
 
 ## Advanced: Modern LM Systems
-- Sebastian Raschka. *[Machine Learning FAQs](https://sebastianraschka.com/faq/index.html)*
-  > a good list of questions that you can learn a lot from
 - Percy Liang & Tatsunori Hashimoto. *[CS336: Language Modeling from Scratch](https://cs336.stanford.edu)*. Stanford University. Spring 2026.
   > assumes working knowledge of ml, probability, and linear algebra. THE SOTA course for getting up to speed on where the field is right now. the assignments are the heart of the course, but they take a lot of work. still highly worthwhile even if you only read through the materials
 - Alisa Liu. [Alisa's Book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms). Jun 2026.
