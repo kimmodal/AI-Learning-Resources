@@ -1,7 +1,7 @@
 # AI Learning Resources
 [한국어](README-ko.md)
 
-Last Updated: Aug 22, 2026
+Last Updated: Aug 24, 2026
 
 A curated list of AI learning resources I’ve found useful, roughly in the order I’d recommend reading them.
 
@@ -30,13 +30,11 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
 
 ## AI Engineering Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. Dec 2024.
-  > 칩 후옌. *AI 엔지니어링*. 한빛미디어.<br>
   > a very good overview of the full AI engineering stack. if you read only one thing from this list, at least read this one. it covers the basics of llm systems, evaluation, data, rag, finetuning, agents, inference optimization, prompt engineering, and more. 
 
 ## Architectures
 ### Transformers
 - Jay Alammar & Maarten Grootendorst. Ch 3: Inside Large Language Models, in *Hands-on Large Language Models*. O'Reilly. Sep 2024. 
-  > 제이 알아마르 & 마르턴 흐루턴도르스트. *핸즈온 LLM*. 3장: 대규모 언어 모델 자세히 살펴보기. 한빛미디어.<br>
   > based on Alammar's [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (2017), but better and more comprehensive. 
 
 #### Optional: More on Transformers
