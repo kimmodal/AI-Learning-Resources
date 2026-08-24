@@ -46,7 +46,6 @@ A curated list of AI learning resources I’ve found useful, roughly in the orde
 
 ### LLMs
 - Jay Alammar & Maarten Grootendorst. Ch 9: Multimodal Large Language Models, in *Hands-on Large Language Models*. O'Reilly. Sep 2024.
-  > 제이 알아마르 & 마르턴 흐루턴도르스트. *핸즈온 LLM*. 9장: 멀티모달 대규모 언어 모델. 한빛미디어.<br>
 - Maarten Grootendorst. [A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms). Feb 2025.
   - [A Visual Guide to Mixture of Experts](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts). Oct 2024.
   - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization). Jul 2024.
